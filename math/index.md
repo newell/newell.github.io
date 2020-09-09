@@ -4,13 +4,11 @@ I am currently working through the exercises of several Mathematics textbooks.
 
 Current progress can be seen on my [math](https://github.com/newell/math) github repository.
 
-The generated pdfs for this repository are hosted here for your convenience and are updated as I progress through the exercises.
+The pdfs for this repository are hosted here as a convenience.  They are updated as I progress through the exercises.
 
 There are bound to be errors, in proofs or other items. Please feel free to submit a pull request or notify me.
 
-## Books
-
-### Abstract Algebra, 3rd Edition. Dummit and Foote
+## Abstract Algebra, 3rd Edition. Dummit and Foote
 
 This is a classic textbook for Abstract Algebra and with close to 2000 exercises...it's a behemoth.
 
@@ -20,7 +18,7 @@ This is a classic textbook for Abstract Algebra and with close to 2000 exercises
 
 [Chapter2](abstract_algebra_dummit_foote/Chapter2.pdf)
 
-### Real Analysis, 3rd Edition. Walter Rudin (aka "Baby Rudin")
+## Real Analysis, 3rd Edition. Walter Rudin (aka "Baby Rudin")
 
 Another classic and the first in the famous triology of Baby Rudin, Papa Rudin, and Grandpa Rudin.
 
