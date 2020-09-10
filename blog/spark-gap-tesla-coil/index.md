@@ -2,7 +2,7 @@
 
 Tesla Coils are cool! This is a spark-gap Tesla Coil that I built for one of my undergraduate Physics courses as extra credit.
 
-For my undergraduate _Electricity and Magnetism_ Physics course we had an extra credit assignment and I decided to build a Tesla Coil. No one helped me with this Tesla Coil but I did get some good advice and information from reading [www.pupman.com](www.pupman.com).
+For my undergraduate _Electricity and Magnetism_ Physics course we had an extra credit assignment and I decided to build a Tesla Coil.
 
 A [Tesla coil](https://en.wikipedia.org/wiki/Tesla_coil) is an electrical resonant transformer circuit invented by Nikola Tesla around 1891. It is used to produce high-voltage, low-current, high frequency alternating-current electricity.
 
