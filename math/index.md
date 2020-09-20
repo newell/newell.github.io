@@ -20,7 +20,7 @@ This is a classic textbook for Abstract Algebra and with close to 2000 exercises
 
 ## Introduction to Analytic Number Theory, Apostol
 
-[Chapter1](introduction_to_analytic_number_theory_apostol/introduction_to_analytic_number_theory_chapter1.pdf)
+[Chapter1](introduction_to_analytic_number_theory_apostol/introduction_to_analytic_number_theory_apostol_chapter1.pdf)
 
 ## Geometry: Euclid and Beyond, Hartshorne
 
