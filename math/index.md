@@ -12,23 +12,23 @@ There are bound to be errors, in proofs or other items. Please feel free to subm
 
 This is a classic textbook for Abstract Algebra and with close to 2000 exercises...it's a behemoth.
 
-[Preliminaries](abstract_algebra_dummit_foote/Preliminaries.pdf)
+[Preliminaries](abstract_algebra_dummit_foote/abstract_algebra_dummit_foote_preliminaries.pdf)
 
-[Chapter1](abstract_algebra_dummit_foote/Chapter1.pdf)
+[Chapter1](abstract_algebra_dummit_foote/abstract_algebra_dummit_foote_chapter1.pdf)
 
-[Chapter2](abstract_algebra_dummit_foote/Chapter2.pdf)
+[Chapter2](abstract_algebra_dummit_foote/abstract_algebra_dummit_foote_chapter2.pdf)
+
+## Introduction to Analytic Number Theory, Apostol
+
+[Chapter1](introduction_to_analytic_number_theory_apostol/introduction_to_analytic_number_theory_chapter1.pdf)
+
+## Geometry: Euclid and Beyond, Hartshorne
+
+[Chapter1](geometry_euclid_and_beyond_hartshorne/geometry_euclid_and_beyond_hartshorne_chapter1.pdf)
 
 ## Real Analysis, 3rd Edition. Walter Rudin (aka "Baby Rudin")
 
 Another classic and the first in the famous triology of Baby Rudin, Papa Rudin, and Grandpa Rudin.
 
-[Chapter1](baby_rudin_3ed/Chapter1.pdf)
-
-## Introduction to Analytic Number Theory, Apostol
-
-[Chapter1](introduction_to_analytic_number_theory_apostol/Chapter1.pdf)
-
-## Geometry: Euclid and Beyond, Hartshorne
-
-[Chapter1](geometry_euclid_and_beyond_hartshorne/Chapter1.pdf)
+[Chapter1](baby_rudin_3ed/baby_rudin_3ed_chapter1.pdf)
 
