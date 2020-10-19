@@ -2,11 +2,9 @@
 
 I am currently working through the exercises of several Mathematics textbooks.
 
-Current progress can be seen on my [math](https://github.com/newell/math) github repository.
-
 The pdfs for this repository are hosted here as a convenience.  They are updated as I progress through the exercises.
 
-There are bound to be errors, in proofs or other items. Please feel free to submit a pull request or notify me.
+There are bound to be errors, in proofs or other items. Please let me know.
 
 ## Abstract Algebra, 3rd Edition. Dummit and Foote
 
