@@ -16,6 +16,8 @@ This is a classic textbook for Abstract Algebra and with close to 2000 exercises
 
 [Chapter2](abstract_algebra_dummit_foote/abstract_algebra_dummit_foote_chapter2.pdf)
 
+[Chapter3](abstract_algebra_dummit_foote/abstract_algebra_dummit_foote_chapter3.pdf)
+
 ## Introduction to Analytic Number Theory, Apostol
 
 [Chapter1](introduction_to_analytic_number_theory_apostol/introduction_to_analytic_number_theory_apostol_chapter1.pdf)
