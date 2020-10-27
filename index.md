@@ -2,8 +2,13 @@
 
 The purpose of this site is to help organize past and current projects, which are communicated via posts.
 
-Most of my current work is [Math](https://newell.github.io/math) related.
+Most of my current work is
 
+## Current
+
+Most of my current time is spent doing [Math](https://newell.github.io/math)
+
+[Mersenne Primes](https://newell.github.io/blog/mersenne-primes)
 
 ## Past Projects
 
