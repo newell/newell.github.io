@@ -2,8 +2,6 @@
 
 The purpose of this site is to help organize past and current projects, which are communicated via posts.
 
-Most of my current work is
-
 ## Current
 
 Most of my current time is spent doing [Math](https://newell.github.io/math)
