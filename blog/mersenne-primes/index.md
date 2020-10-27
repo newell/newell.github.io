@@ -13,7 +13,7 @@ The [number of atoms in the observable Universe](https://en.wikipedia.org/wiki/O
 
 In order to search for these large numbers, obviously you need to be running algorithms that search for them such as the Lucas-Lehmer test mentioned above.  On top of that, these types of algorithms are much faster on GPUs than your standard CPU.  Below is a parts list of the hardware for the computer I built to search for Mersenne primes.
 
-## Hwardware Parts List
+## Hardware Parts List
 ```
 * HyperX Fury 16GB 2666MHz DDR4 CL 16 DIMM Black XMP Desktop Memory Single Stick HX426C16FB3/16
 * ROSEWILL Gaming 80 Plus Gold 1600W Power Supply/PSU: HERCULES-1600S
