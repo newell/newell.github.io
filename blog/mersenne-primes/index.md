@@ -14,6 +14,7 @@ The [number of atoms in the observable Universe](https://en.wikipedia.org/wiki/O
 In order to search for these large numbers, obviously you need to be running algorithms that search for them such as the Lucas-Lehmer test mentioned above.  On top of that, these types of algorithms are much faster on GPUs than your standard CPU.  Below is a parts list of the hardware for the computer I built to search for Mersenne primes.
 
 ## Hwardware Parts List
+```
 * HyperX Fury 16GB 2666MHz DDR4 CL 16 DIMM Black XMP Desktop Memory Single Stick HX426C16FB3/16
 * ROSEWILL Gaming 80 Plus Gold 1600W Power Supply/PSU: HERCULES-1600S
 * Intel Core i5-9400F Desktop Processor 6 Cores 4.1 GHz Turbo Without Graphics
@@ -22,10 +23,13 @@ In order to search for these large numbers, obviously you need to be running alg
 * MSI Pro Series Intel Coffee Lake H310 LGA 1151 BTC ETH LTC Crypto Mining ATX Motherboard (H310-F PRO)
 * Four - XFX AMD Radeon VII 16GB HBM2, 1750 MHz Boost, 1801 MHz Peak, 3xDP 1xHDMI Pci-E 3.0
 * Ubit 6 Pack Latest PCI-E Riser Express Cable 16X to 1X (6pin / MOLEX/SATA) with Led Graphics Extension Ethereum ETH Mining Powered Riser Adapter Card+60cm USB 3.0 Cable
+```
 
 ## Software
+```
 * Ubuntu 20.04.1 LTS Server
 * [gpuowl](https://github.com/preda/gpuowl)
+```
 
 ![Imgur](https://i.imgur.com/CSP1MMW.jpg)
 
