@@ -6,6 +6,10 @@ The pdfs for this repository are hosted here as a convenience.  They are updated
 
 There are bound to be errors, in proofs or other items. Please let me know.
 
+## Classical Mathematical Logic, Epstein
+
+[Chapter1](classical_mathematical_logic_epstein/classical_mathematical_logic_chapter1.pdf)
+
 ## Abstract Algebra, 3rd Edition. Dummit and Foote
 
 This is a classic textbook for Abstract Algebra and with close to 2000 exercises...it's a behemoth.
