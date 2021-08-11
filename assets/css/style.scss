@@ -7,19 +7,19 @@ $header-bg-color: #000;
 $header-bg-color-secondary: #520452;
 
 // Text
-$section-headings-color: #520452;
+$section-headings-color: #962396;
 $body-text-color: #fc0 !default;
-$body-link-color: #520452 !default;
-$blockquote-text-color: #819198 !default;
+$body-link-color: #2f78d8 !default;
+$blockquote-text-color: #cbd9df !default;
 
 // Code
 $code-bg-color: #f3f6fa !default;
-$code-text-color: #567482 !default;
+$code-text-color: #36ac36 !default;
 
 // Borders
 $border-color: #4e5155 !default;
-$table-border-color: #e9ebec !default;
-$hr-border-color: #eff0f1 !default;
+$table-border-color: #4e5155 !default;
+$hr-border-color: #4e5155 !default;
 
 @import "{{ site.theme }}";
 .embed-youtube {
@@ -38,5 +38,5 @@ $hr-border-color: #eff0f1 !default;
   }
 
   .main-content {
-    background-color: #333;
+    background-color: rgb(70, 66, 66);
   }
