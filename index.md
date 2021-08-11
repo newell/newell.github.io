@@ -1,17 +1,10 @@
-# Welcome
+# Mathematics _IS_ Art
 
-The purpose of this site is to help organize past and current projects, which are communicated via posts.
+Gempillar believes the beauty of Mathematics _IS_ Art and we try and do our best communicating this using different mediums such paintings, video animations, and the demonstrations of mathemtical proofs.
 
-## Current
+Gempillar is a Platonist, in the same sense as H.S.M Coxeter quotes:
 
-Most of my current time is spent doing [Math](https://newell.github.io/math)
+_"I'm a Platonist --- a follower of Plato --- who beleives that one didn't invent these sort of things, that one discovers them.  In a sense, all these mathematical facts are right there waiting to be discovered."
 
-[Mersenne Primes](https://newell.github.io/blog/mersenne-primes)
+Come, let us discover these facts together.
 
-## Past Projects
-
-[Spark-gap Tesla Coil](https://newell.github.io/blog/spark-gap-tesla-coil)
-
-[TRF AM Radio Receiver](https://newell.github.io/blog/trf-am-radio-receiver)
-
-[Reflex AM Radio Receiver](https://newell.github.io/blog/reflex-am-radio-receiver)
