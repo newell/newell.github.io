@@ -4,7 +4,7 @@
 
 _Gempillar_ is a company started by Newell Jensen that focuses on communicating and demonstrating the knowledge and beauty of mathematics to the masses.  Originally, and in his own leisurement, Newell was working his way through the proofs in _Euclid's Elements_ when he realized the power and importance of _demonstration_.  This importance was noted by the 16th president of the United States of America, Abraham Lincoln:
 
-_"You never can make a good lawyer if you do not understand what demonstrate means; and I left my situation in Springfield, went home to my father's house, and stayed there till I could give any proposition in the six books of Euclid at sight."
+_"You never can make a good lawyer if you do not understand what demonstrate means; and I left my situation in Springfield, went home to my father's house, and stayed there till I could give any proposition in the six books of Euclid at sight."_
 
 
 ## Name
