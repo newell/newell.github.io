@@ -2,7 +2,7 @@
 ---
 
 // Headers
-$header-heading-color: #606c71 !default;
+$header-heading-color: #fff !default;
 $header-bg-color: #000;
 $header-bg-color-secondary: #520452;
 
@@ -35,4 +35,8 @@ $hr-border-color: #eff0f1 !default;
     left: 0;
     width: 100%;
     height: 100%;
+  }
+
+  .main-content {
+    background-color: #567482;
   }
