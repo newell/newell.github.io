@@ -7,7 +7,7 @@ $header-bg-color: #000;
 $header-bg-color-secondary: #520452;
 
 // Text
-$section-headings-color: #db2707;
+$section-headings-color: #c4b4b1;
 $body-text-color: #fc0 !default;
 $body-link-color: #2f78d8 !default;
 $blockquote-text-color: #cbd9df !default;
@@ -40,12 +40,8 @@ $hr-border-color: #4e5155 !default;
   .main-content {
     background-color: rgb(70, 66, 66);
     border-color:  rgb(70, 66, 66);
-    // h1,
-    // h2,
-    // h3,
-    // h4,
-    // h5,
-    // h6 {
-    //   color: #3c3c3c;
-    // }
+  }
+
+  body {
+    background-color: rgb(100, 95, 95);
   }
