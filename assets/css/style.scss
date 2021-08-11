@@ -1,12 +1,8 @@
 ---
 ---
 
-// Breakpoints
-$large-breakpoint: 64em !default;
-$medium-breakpoint: 42em !default;
-
 // Headers
-$header-heading-color: #fff !default;
+$header-heading-color: #606c71 !default;
 $header-bg-color: #000;
 $header-bg-color-secondary: #520452;
 
@@ -24,9 +20,6 @@ $code-text-color: #567482 !default;
 $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
-
-// kbd
-$kbd-background-color: #606c71 !default;
 
 @import "{{ site.theme }}";
 .embed-youtube {
