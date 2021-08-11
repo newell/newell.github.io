@@ -1,10 +1,10 @@
 # Projects
 
-I am currently working through the exercises of several Mathematics textbooks.
+Gempillar is currently working through the exercises of several Mathematics textbooks.
 
-The pdfs for this repository are hosted here as a convenience.  They are updated as I progress through the exercises.
+The pdfs for this repository are hosted here as a convenience.  They are updated while progressing through the exercises
 
-There are bound to be errors, in proofs or other items. Please let me know.
+There are bound to be errors, in proofs or other items. Please let us know.
 
 There is current work on creating videos for YouTube concentrated on these textbooks.
 
