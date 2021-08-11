@@ -38,13 +38,14 @@ $hr-border-color: #4e5155 !default;
   }
 
   .main-content {
-    // background-color: rgb(70, 66, 66);
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: #3c3c3c;
-    }
+    background-color: rgb(70, 66, 66);
+    border-color:  rgb(70, 66, 66);
+    // h1,
+    // h2,
+    // h3,
+    // h4,
+    // h5,
+    // h6 {
+    //   color: #3c3c3c;
+    // }
   }
