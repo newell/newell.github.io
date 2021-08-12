@@ -1,6 +1,6 @@
 # Projects
 
-Gempillar is currently working through the exercises of several Mathematics textbooks.
+Gempillar is currently working through the exercises of several mathematics textbooks.
 
 The pdfs for this repository are hosted here as a convenience.  They are updated while progressing through the exercises
 
