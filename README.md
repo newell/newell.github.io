@@ -1,4 +1,4 @@
 # newell.github.io
 Personal site for publishing content.
 
-See https://gempillar.com
+See https://newell.github.io/
