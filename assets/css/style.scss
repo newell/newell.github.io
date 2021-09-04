@@ -1,28 +1,3 @@
----
----
-
-// Headers
-$header-heading-color: #fff !default;
-$header-bg-color: #000;
-$header-bg-color-secondary: #520452;
-
-// Text
-// $section-headings-color: #c4b4b1;
-$section-headings-color: #D197D9;
-// $body-text-color: #edd400 !default;
-$body-text-color: #c4b4b1 !default;
-$body-link-color: #edd400 !default;
-$blockquote-text-color: #cbd9df !default;
-
-// Code
-$code-bg-color: #f3f6fa !default;
-$code-text-color: #36ac36 !default;
-
-// Borders
-// $border-color: #4e5155 !default;
-// $table-border-color: #4e5155 !default;
-// $hr-border-color: #4e5155 !default;
-
 @import "{{ site.theme }}";
 .embed-youtube {
     position: relative;
@@ -37,12 +12,4 @@ $code-text-color: #36ac36 !default;
     left: 0;
     width: 100%;
     height: 100%;
-  }
-
-  .main-content {
-    background-color: #2e3436
-  }
-
-  body {
-    background-color: #2e3436
   }
