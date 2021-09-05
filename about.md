@@ -1,8 +1,16 @@
 # About
 
-How much can one say about themselves?  It is a waste of time in my humble opinion so... let's all get back to work and the more important things in life because time is running out.
+How much can one say about themselves?  
 
+Here is what I spend most my time on if one must know:
 
+* Working
+* Exercise
+* Dogs and girlfriend
+* Sleep
+* Repeat
+
+_Carpe Diem_
 
 
 
