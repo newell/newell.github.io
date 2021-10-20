@@ -1,5 +1,7 @@
 # Projects
 
+[Math](https://newell.github.io/projects/math)
+
 [Mersenne Primes](https://newell.github.io/projects/mersenne_primes)
 
 ## Past Projects
