@@ -28,7 +28,7 @@ This is a classic textbook for Abstract Algebra and with close to 2000 exercises
 
 ## Topology of Number, Hatcher
 
-[Chapter0](topology_of_numbers/topology_of_numbers_chapter0.pdf)
+[Chapter0](topology_of_numbers_hatcher/topology_of_numbers_chapter0.pdf)
 
 ## Real Analysis, 3rd Edition. Walter Rudin (aka "Baby Rudin")
 
