@@ -46,4 +46,6 @@ Terrence Tao's first analysis book from a two part series
 
 [Chapter4](analysis_1_tao/analysis_1_tao_chapter4.pdf)
 
+[Chapter5](analysis_1_tao/analysis_1_tao_chapter5.pdf)
+
 
