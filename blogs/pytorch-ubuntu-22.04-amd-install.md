@@ -9,13 +9,13 @@ First, you __need__ to make sure you have the correct versions of both ROCm and 
 
 To know which version of Pytorch and ROCm you need you will need to do two things.
 
-### Pytorch Start Locally and amdgpu-install
+### Pytorch Start Locally and `amdgpu-install`
 
-Go to [Pytorch Start Locally](https://pytorch.org/get-started/locally/) and select the software setup of your system using the animated bars.  This will show you the command you need to execute for installing Pytorch.  Go ahead and write this down as you will be needing it later.  As of this writing you can either choose the stable version of Pytorch or the nightly build.  At first when I was doing this, I chose the stable version.  However, this only gave ROCm 5.2, which was no longer supported via [amdgpu-install](https://repo.radeon.com/amdgpu-install/).  A quick aside, amdgpu-install is a package you install on Ubuntu that you can then use from the command line to install different packages and drivers from AMD.  Now back to the task at hand, luckily the nightly build of Pytorch supported ROCm 5.3 and there was a version 5.3 of amdgpu-install available.  YMMV but hopefully you can find versions that are available and work for you.
+Go to [Pytorch Start Locally](https://pytorch.org/get-started/locally/) and select the software setup of your system using the animated bars.  This will show you the command you need to execute for installing Pytorch.  Go ahead and write this down as you will be needing it later.  As of this writing you can either choose the stable version of Pytorch or the nightly build.  At first when I was doing this, I chose the stable version.  However, this only gave ROCm 5.2, which was no longer supported via [`amdgpu-install`](https://repo.radeon.com/amdgpu-install/).  A quick aside, `amdgpu-install` is a package you install on Ubuntu that you can then use from the command line to install different packages and drivers from AMD.  Now back to the task at hand, luckily the nightly build of Pytorch supported ROCm 5.3 and there was a version 5.3 of amdgpu-install available.  YMMV but hopefully you can find versions that are available and work for you.
 
 ### Installing amdgpu-install and ROCm 5.3
 
-Now that you know which version of Pytorch, amdgpu-install and ROCm you will need, go and download the amdgpu-install debian package.  For me this was:
+Now that you know which version of Pytorch, `amdgpu-install` and ROCm you will need, go and download the `amdgpu-install` debian package.  For me this was:
 ```
     amdgpu-install_5.3.50300-1_all.deb
 ```
