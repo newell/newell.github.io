@@ -1,6 +1,6 @@
 # About
 
-Hello, my name is Newell Jensen.  Here is my [CV](assets/newell_jensen_cv_2023.pdf)
+Hello, my name is Newell Jensen.  Here is my [CV](assets/newell_jensen_cv_2023.pdf).
 
 
 Intellectually I enjoy logic, mathematics, physics, and engineering.
