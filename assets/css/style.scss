@@ -18,12 +18,447 @@
   height: 100%;
 }
 
-.main-content {
-  color: #eeeeec;
-  background-color: #2e3436
+/*
+                        _______
+                       /       \
+                      .==.    .==.
+                     ((  ))==((  ))
+                    / "=="    "=="\
+                   /____|| || ||___\
+       ________     ____    ________  ___    ___
+       |  ___  \   /    \   |  ___  \ |  |  /  /
+       |  |  \  \ /  /\  \  |  |  \  \|  |_/  /
+       |  |   )  /  /__\  \ |  |__/  /|  ___  \
+       |  |__/  /  ______  \|  ____  \|  |  \  \
+_______|_______/__/ ____ \__\__|___\__\__|___\__\____
+|  ___  \ |  ____/ /    \   |  ___  \ |  ____|  ___  \
+|  |  \  \|  |___ /  /\  \  |  |  \  \|  |___|  |  \  \
+|  |__/  /|  ____/  /__\  \ |  |   )  |  ____|  |__/  /
+|  ____  \|  |__/  ______  \|  |__/  /|  |___|  ____  \
+|__|   \__\____/__/      \__\_______/ |______|__|   \__\
+                https://darkreader.org
+*/
+
+/*! Dark reader generated CSS | Licensed under MIT https://github.com/darkreader/darkreader/blob/main/LICENSE */
+
+/* User-Agent Style */
+html {
+    background-color: #383a3b !important;
+}
+html {
+    color-scheme: dark !important;
+}
+html, body, input, textarea, select, button, dialog {
+    background-color: #383a3b;
+}
+html, body, input, textarea, select, button {
+    border-color: #948c7f;
+    color: #ffffff;
+}
+a {
+    color: #54b3ff;
+}
+table {
+    border-color: #757c7f;
+}
+::placeholder {
+    color: #d4cdc3;
+}
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    background-color: #616520 !important;
+    color: #ffffff !important;
+}
+::-webkit-scrollbar {
+    background-color: #404344;
+    color: #cdc6bb;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #666b6e;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #787f83;
+}
+::-webkit-scrollbar-thumb:active {
+    background-color: #696f72;
+}
+::-webkit-scrollbar-corner {
+    background-color: #383a3b;
+}
+::selection {
+    background-color: #206ecc !important;
+    color: #ffffff !important;
+}
+::-moz-selection {
+    background-color: #206ecc !important;
+    color: #ffffff !important;
 }
 
+/* Invert Style */
+.jfk-bubble.gtx-bubble, .captcheck_answer_label > input + img, span#closed_text > img[src^="https://www.gstatic.com/images/branding/googlelogo"], span[data-href^="https://www.hcaptcha.com/"] > #icon, #bit-notification-bar-iframe, ::-webkit-calendar-picker-indicator {
+    filter: invert(100%) hue-rotate(180deg) brightness(135%) contrast(65%) !important;
+}
+
+/* Variables Style */
+:root {
+   --darkreader-neutral-background: #333536;
+   --darkreader-neutral-text: #fbf7f1;
+   --darkreader-selection-background: #206ecc;
+   --darkreader-selection-text: #ffffff;
+}
+
+/* Modified CSS */
+a {
+    background-color: transparent;
+}
+a:active,
+a:hover {
+    outline-color: initial;
+}
+abbr[title] {
+    border-bottom-color: initial;
+}
+mark {
+    background-image: initial;
+    background-color: rgb(187, 187, 32);
+    color: rgb(255, 255, 255);
+}
+img {
+    border-color: initial;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+    color: inherit;
+}
+fieldset {
+    border-color: rgb(99, 104, 107);
+}
+legend {
+    border-color: initial;
+}
+.highlight .cm {
+    color: rgb(196, 188, 176);
+}
+.highlight .cp {
+    color: rgb(202, 194, 183);
+}
+.highlight .c1 {
+    color: rgb(196, 188, 176);
+}
+.highlight .cs {
+    color: rgb(202, 194, 183);
+}
+.highlight .c,
+.highlight .cd {
+    color: rgb(196, 188, 176);
+}
+.highlight .err {
+    color: rgb(255, 127, 127);
+    background-color: rgb(91, 68, 68);
+}
+.highlight .gd {
+    color: rgb(255, 255, 255);
+    background-color: rgb(104, 32, 32);
+}
+.highlight .ge {
+    color: rgb(255, 255, 255);
+}
+.highlight .gr {
+    color: rgb(255, 118, 118);
+}
+.highlight .gh {
+    color: rgb(202, 194, 183);
+}
+.highlight .gi {
+    color: rgb(255, 255, 255);
+    background-color: rgb(50, 104, 32);
+}
+.highlight .go {
+    color: rgb(191, 182, 170);
+}
+.highlight .gp {
+    color: rgb(212, 206, 196);
+}
+.highlight .gu {
+    color: rgb(212, 206, 196);
+}
+.highlight .gt {
+    color: rgb(255, 118, 118);
+}
+.highlight .kc {
+    color: rgb(255, 255, 255);
+}
+.highlight .kd {
+    color: rgb(255, 255, 255);
+}
+.highlight .kn {
+    color: rgb(255, 255, 255);
+}
+.highlight .kp {
+    color: rgb(255, 255, 255);
+}
+.highlight .kr {
+    color: rgb(255, 255, 255);
+}
+.highlight .kt {
+    color: rgb(173, 200, 231);
+}
+.highlight .k,
+.highlight .kv {
+    color: rgb(255, 255, 255);
+}
+.highlight .mf {
+    color: rgb(130, 255, 255);
+}
+.highlight .mh {
+    color: rgb(130, 255, 255);
+}
+.highlight .il {
+    color: rgb(130, 255, 255);
+}
+.highlight .mi {
+    color: rgb(130, 255, 255);
+}
+.highlight .mo {
+    color: rgb(130, 255, 255);
+}
+.highlight .m,
+.highlight .mb,
+.highlight .mx {
+    color: rgb(130, 255, 255);
+}
+.highlight .sb {
+    color: rgb(255, 86, 133);
+}
+.highlight .sc {
+    color: rgb(255, 86, 133);
+}
+.highlight .sd {
+    color: rgb(255, 86, 133);
+}
+.highlight .s2 {
+    color: rgb(255, 86, 133);
+}
+.highlight .se {
+    color: rgb(255, 86, 133);
+}
+.highlight .sh {
+    color: rgb(255, 86, 133);
+}
+.highlight .si {
+    color: rgb(255, 86, 133);
+}
+.highlight .sx {
+    color: rgb(255, 86, 133);
+}
+.highlight .sr {
+    color: rgb(130, 255, 170);
+}
+.highlight .s1 {
+    color: rgb(255, 86, 133);
+}
+.highlight .ss {
+    color: rgb(255, 130, 251);
+}
+.highlight .s {
+    color: rgb(255, 86, 133);
+}
+.highlight .na {
+    color: rgb(147, 255, 255);
+}
+.highlight .bp {
+    color: rgb(202, 194, 183);
+}
+.highlight .nb {
+    color: rgb(112, 246, 255);
+}
+.highlight .nc {
+    color: rgb(173, 200, 231);
+}
+.highlight .no {
+    color: rgb(147, 255, 255);
+}
+.highlight .nd {
+    color: rgb(218, 212, 202);
+}
+.highlight .ni {
+    color: rgb(255, 147, 255);
+}
+.highlight .ne {
+    color: rgb(255, 130, 130);
+}
+.highlight .nf {
+    color: rgb(255, 130, 130);
+}
+.highlight .nl {
+    color: rgb(255, 130, 130);
+}
+.highlight .nn {
+    color: rgb(212, 206, 196);
+}
+.highlight .nt {
+    color: rgb(160, 208, 255);
+}
+.highlight .vc {
+    color: rgb(147, 255, 255);
+}
+.highlight .vg {
+    color: rgb(147, 255, 255);
+}
+.highlight .vi {
+    color: rgb(147, 255, 255);
+}
+.highlight .nv {
+    color: rgb(147, 255, 255);
+}
+.highlight .ow {
+    color: rgb(255, 255, 255);
+}
+.highlight .o {
+    color: rgb(255, 255, 255);
+}
+.highlight .w {
+    color: rgb(223, 217, 209);
+}
+.highlight {
+    background-color: rgb(60, 62, 63);
+}
 body {
-  color: #eeeeec;
-  background-color: #2e3436
+    color: rgb(200, 192, 181);
+}
+#skip-to-content:focus {
+    background-image: initial;
+    background-color: rgb(188, 123, 57);
+    outline-color: rgb(177, 116, 55);
+}
+a {
+    color: rgb(134, 206, 255);
+    text-decoration-color: initial;
+}
+a:hover {
+    text-decoration-color: initial;
+}
+.btn {
+    color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(56, 58, 59, 0.08);
+    border-color: rgba(80, 85, 87, 0.2);
+}
+.btn:hover {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration-color: initial;
+    background-color: rgba(56, 58, 59, 0.2);
+    border-color: rgba(80, 85, 87, 0.3);
+}
+.page-header {
+    color: rgb(255, 255, 255);
+    background-color: rgb(49, 155, 103);
+    background-image: linear-gradient(120deg,
+    rgb(49, 103, 155),
+    rgb(49, 155, 103));
+}
+.main-content kbd {
+    background-color: rgb(58, 60, 62);
+    border-color: rgb(96, 101, 103) rgb(96, 101, 103) rgb(109, 115, 118);
+    box-shadow: rgb(112, 119, 122) 0px -1px 0px inset;
+    color: rgb(217, 211, 202);
+}
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+    color: rgb(136, 255, 203);
+}
+.main-content code {
+    color: rgb(198, 190, 178);
+    background-color: rgb(61, 63, 64);
+}
+.main-content pre {
+    color: rgb(198, 190, 178);
+    background-color: rgb(61, 63, 64);
+    border-color: rgb(67, 92, 115);
+}
+.main-content pre > code {
+    color: rgb(198, 190, 178);
+    background-image: initial;
+    background-color: transparent;
+    border-color: initial;
+}
+.main-content pre code,
+.main-content pre tt {
+    background-color: transparent;
+    border-color: initial;
+}
+.main-content blockquote {
+    color: rgb(194, 185, 173);
+    border-left-color: rgb(67, 92, 115);
+}
+.main-content table th,
+.main-content table td {
+    border-color: rgb(87, 91, 94);
+}
+.main-content hr {
+    background-color: rgb(64, 67, 69);
+    border-color: initial;
+}
+.site-footer {
+    border-top-color: rgb(85, 90, 92);
+}
+.site-footer-credits {
+    color: rgb(194, 185, 173);
+}
+.main-content {
+    color: rgb(255, 253, 248);
+    background-color: rgb(70, 73, 74);
+}
+body {
+    color: rgb(255, 253, 248);
+    background-color: rgb(70, 73, 74);
+}
+
+/* Override Style */
+.vimvixen-hint {
+    background-color: #9d740a !important;
+    border-color: #fad233 !important;
+    color: #ffffea !important;
+}
+::placeholder {
+    opacity: 0.5 !important;
+}
+#edge-translate-panel-body,
+.MuiTypography-body1,
+.nfe-quote-text {
+    color: var(--darkreader-neutral-text) !important;
+}
+gr-main-header {
+    background-color: #2f5b69 !important;
+}
+.tou-z65h9k,
+.tou-mignzq,
+.tou-1b6i2ox,
+.tou-lnqlqk {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.tou-75mvi {
+    background-color: #234049 !important;
+}
+.tou-ta9e87,
+.tou-1w3fhi0,
+.tou-1b8t2us,
+.tou-py7lfi,
+.tou-1lpmd9d,
+.tou-1frrtv8,
+.tou-17ezmgn {
+    background-color: #2a2a2a !important;
+}
+.tou-uknfeu {
+    background-color: #433623 !important;
+}
+.tou-6i3zyv {
+    background-color: #39788d !important;
 }
