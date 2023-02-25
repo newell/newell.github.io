@@ -1,3 +1,3 @@
 # Welcome
 
-This site is for some of my personal projects and blogs.
+This site is for my personal projects and blogs.
