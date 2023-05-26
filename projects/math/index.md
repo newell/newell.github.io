@@ -1,10 +1,9 @@
 # Math Solutions
 
-I am currently working through the exercises of several Mathematics textbooks.
+The PDFs here are from self-study through several textbooks a few years ago.
+I only completed as much as I had motivation for but I am posting them here in the event that they can be of some help to someone. 
 
-The pdfs for this repository are hosted here as a convenience.  They are updated as I progress through the exercises.
-
-There are bound to be errors, in proofs or other items. Please let me know.
+There are bound to be errors, in proofs or other items. Please let me know if you find any errors at `newell dot jensen at gmail dot com`.
 
 ## Classical Mathematical Logic, Epstein
 
