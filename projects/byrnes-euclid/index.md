@@ -1,5 +1,4 @@
 # Byrne's Euclid
-#### May 25, 2023
 
 I have self published a modern rendition of [Byrne's Euclid](https://www.amazon.com/Byrnes-Euclid-First-Books-Elements/dp/B0BZF4Z67V) on Amazon.
 
