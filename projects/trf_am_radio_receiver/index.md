@@ -4,12 +4,12 @@ In this project I built a simple two transistor Tuned Radio Frequency AM Radio R
 
 This was the first radio receiver that I ever built and getting it to work was a learning process. At first I tried to wire it up with a dead bug construction. After wiring it up this way the radio started to oscillate and it wouldn't pick up any stations. I decided to scrap this approach, not so much for the fact that the radio was oscillating, but more because it was too ugly for my liking. To circumvent this dilemma I decided to buy some FR-4 perfboard, which helped organize the components and gives a more clean look.
 
-![Imgur](https://i.imgur.com/dNJs9ld.jpg)
+![TRF0](https://github.com/newell/newell.github.io/assets/4163356/9db55a87-72ae-4d92-a363-600849d4554a)
 
-![Imgur](https://i.imgur.com/SzGB1Be.jpg)
+![TRF1](https://github.com/newell/newell.github.io/assets/4163356/f038bd7b-0f11-40af-a865-b7e028db92bf)
 
-![Imgur](https://i.imgur.com/tErhaWs.jpg)
+![TRF2](https://github.com/newell/newell.github.io/assets/4163356/e696bedc-a0df-42e1-8c4f-263e03233dd3)
 
-![Imgur](https://i.imgur.com/vGi723x.jpg)
+![TRF3](https://github.com/newell/newell.github.io/assets/4163356/6001ec34-69b0-44cc-86c5-77222f6eca64)
 
-![Imgur](https://i.imgur.com/AWpnpbp.jpg)
+![TRF4](https://github.com/newell/newell.github.io/assets/4163356/2e0355c2-55c2-48f2-b7ba-db4626d26363)
