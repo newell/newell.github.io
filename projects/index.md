@@ -1,6 +1,6 @@
 # Projects
 
-[Math](https://newell.github.io/projects/math)
+[Textbook Math Solutions](https://newell.github.io/projects/math)
 
 [Mersenne Primes](https://newell.github.io/projects/mersenne_primes)
 
