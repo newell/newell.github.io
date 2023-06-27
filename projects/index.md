@@ -1,5 +1,7 @@
 # Projects
 
+[Byrne's Euclid](https://newell.github.io/projects/byrnes-euclid)
+
 [Textbook Math Solutions](https://newell.github.io/projects/math)
 
 [Mersenne Primes](https://newell.github.io/projects/mersenne_primes)
