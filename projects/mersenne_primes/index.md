@@ -31,10 +31,10 @@ In order to search for these large primes, obviously you need to be running algo
 * [gpuowl](https://github.com/preda/gpuowl)
 ```
 
-![Imgur](https://i.imgur.com/CSP1MMW.jpg)
+![mersenne-0](https://github.com/newell/newell.github.io/assets/4163356/ff6bc2b6-c00d-49e4-b770-8cd7b5ab289e)
 
-![Imgur](https://i.imgur.com/d3Rlf2o.jpg)
+![mersenne-1](https://github.com/newell/newell.github.io/assets/4163356/25a95988-cbfd-4916-b635-a52f373bf8b1)
 
-![Imgur](https://i.imgur.com/0VrSVqm.jpg)
+![mersenne-2](https://github.com/newell/newell.github.io/assets/4163356/63e4df3c-0939-46b8-9ada-2694ce22ad06)
 
-![Imgur](https://i.imgur.com/7ymw7Dc.jpg)
+![mersenne-3](https://github.com/newell/newell.github.io/assets/4163356/bb4a0592-bf53-468c-bcfa-9b718a4e00f5)
