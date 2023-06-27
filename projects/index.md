@@ -1,5 +1,7 @@
 # Projects
 
+[Polytopes](https://newell.github.io/projects/polytopes)
+
 [Byrne's Euclid](https://newell.github.io/projects/byrnes-euclid)
 
 [Textbook Math Solutions](https://newell.github.io/projects/math)
