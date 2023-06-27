@@ -8,16 +8,14 @@ A [Tesla coil](https://en.wikipedia.org/wiki/Tesla_coil) is an electrical resona
 
 {% include youtube_player.html id="MrxNQ_RiRMs" %}
 
-![Imgur](https://i.imgur.com/NDyQbTN.jpg)
+![tesla-0](https://github.com/newell/newell.github.io/assets/4163356/43eb5578-398c-4120-b5f6-f852f1f5b9c6)
 
-![Imgur](https://i.imgur.com/i5zZQGQ.jpg)
+![tesla-1](https://github.com/newell/newell.github.io/assets/4163356/658e34f0-be25-4c3a-9c03-3371838a2584)
 
-![Imgur](https://i.imgur.com/nDS0nXv.jpg)
+![tesla-2](https://github.com/newell/newell.github.io/assets/4163356/7af5b962-516a-4b1b-b0d1-2614410f9fcb)
 
-![Imgur](https://i.imgur.com/lHgnAM8.jpg)
+![tesla-3](https://github.com/newell/newell.github.io/assets/4163356/4569bfe5-655c-4eba-8ed7-19b6b7057829)
 
-![Imgur](https://i.imgur.com/rcUmWQX.jpg)
+![tesla-4](https://github.com/newell/newell.github.io/assets/4163356/22ccb5ee-a6ea-4d68-99fd-85a139440159)
 
-![Imgur](https://i.imgur.com/cElCiTe.jpg)
-
-![Imgur](https://i.imgur.com/KHUv8Zf.jpg)
+![tesla-5](https://github.com/newell/newell.github.io/assets/4163356/91686896-efb4-4655-be12-653457aafc2b)
