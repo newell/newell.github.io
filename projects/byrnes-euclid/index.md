@@ -1,6 +1,6 @@
 # Byrne's Euclid
 
-I have self published a modern rendition of [Byrne's Euclid](https://www.amazon.com/Byrnes-Euclid-First-Books-Elements/dp/B0BZF4Z67V) on Amazon.
+I have self published a modern rendition of [Byrne's Euclid](https://www.amazon.com/Byrnes-Euclid-First-Books-Elements/dp/B0BZF4Z67V) on Amazon.  I employed LaTeX for the complete typesetting of this book.
 
 ![book-0](https://github.com/newell/newell.github.io/assets/4163356/831a2dad-d95c-4c5a-bdff-e24b9cc43013)
 
