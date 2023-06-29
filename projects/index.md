@@ -1,5 +1,14 @@
 # Projects
 
+[Electronics](https://newell.github.io/projects/electronics)
+
+* [Oscillators](https://newell.github.io/projects/electronics/oscillators)
+  * [Nonlinear - Relaxation Oscillators](https://newell.github.io/projects/electronics/oscillators/nonlinear)
+    * [LM358 VCO](https://newell.github.io/projects/electronics/oscillators/nonlinear/lm358-vco)
+    * [AOE Precision VCO](https://newell.github.io/projects/electronics/oscillators/nonlinear/aoe-precision-vco)
+  * [Linear Oscillators](https://newell.github.io/projects/electronics/oscillators/linear)
+    * [AOE Wien Bridge Oscllator](https://newell.github.io/projects/electronics/oscillators/linear/aoe-wien-bridge)
+
 [Polytopes](https://newell.github.io/projects/polytopes)
 
 [Byrne's Euclid](https://newell.github.io/projects/byrnes-euclid)
