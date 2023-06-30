@@ -33,17 +33,51 @@ There exist 14 Bravais lattices in three-dimensional space. Personally, I have u
 
 ### Triclinic
 
+![triclinic-0](https://github.com/newell/newell.github.io/assets/4163356/a94c38d8-b523-45e7-8284-71026589318f)
+
+![triclinic-2](https://github.com/newell/newell.github.io/assets/4163356/654ccc13-bb44-405b-8910-1979c00bbc68)
+
+
 ### Monoclinic
+
+![monoclinic-0](https://github.com/newell/newell.github.io/assets/4163356/dfe4ee9b-6e40-4e1e-9aa7-bc7defedff6c)
+
+![monoclinic-1](https://github.com/newell/newell.github.io/assets/4163356/08b3d97e-7e73-4ef3-a501-ede30f2aec2c)
+
 
 ### Orthorhombic
 
+![orthorhombic-3](https://github.com/newell/newell.github.io/assets/4163356/b0cff8eb-a092-4880-b3de-ea3ab127f88d)
+
+![orthorhombic-5](https://github.com/newell/newell.github.io/assets/4163356/83da87cf-b8d7-42b4-880f-c8ac5c637e03)
+
+
 ### Tetragonal
 
-### Trigonal
+![tetragonal-0](https://github.com/newell/newell.github.io/assets/4163356/1564184e-cc10-4219-8070-b15261d310f1)
+
+![tetragonal-1](https://github.com/newell/newell.github.io/assets/4163356/b06aecce-d2f0-4af6-8833-ed03864a17c5)
+
+
+### Rhombohedral
+
+![rhombohedral-1](https://github.com/newell/newell.github.io/assets/4163356/f734b933-81e7-4538-8443-8f0cee33c42d)
+
+![rhombohedral-0](https://github.com/newell/newell.github.io/assets/4163356/2671ed6b-bfdf-4ce6-bf92-84f3c76a13fa)
+
 
 ### Hexagonal
 
+![hexagonal-1](https://github.com/newell/newell.github.io/assets/4163356/718596a7-b4da-41df-b645-b99b8cc0ded7)
+
+![hexagonal-2](https://github.com/newell/newell.github.io/assets/4163356/40a6928a-8237-4845-acc4-bccf622b1954)
+
+
 ### Cubic
+
+![cubic-1](https://github.com/newell/newell.github.io/assets/4163356/c0b792e2-670c-43ec-8ff7-0f299ae98e3f)
+
+![cubic-2](https://github.com/newell/newell.github.io/assets/4163356/dacb627d-1f6c-4a05-ab54-93ae34d31d22)
 
 
 ## 22 Black-White (Magnetic) Bravais Lattices
@@ -56,15 +90,48 @@ The translational symmetry of the structure in [black-white Bravais lattices](ht
 
 ### Triclinic
 
+![triclinic-mag-0](https://github.com/newell/newell.github.io/assets/4163356/3bbc39ce-69d8-431e-b265-2bacba5cd49d)
+
+![triclinic-mag-1](https://github.com/newell/newell.github.io/assets/4163356/cdeec7f8-6b02-42ec-8ad0-f332aba0d831)
+
+
 ### Monoclinic
+
+![monoclinic-mag-1](https://github.com/newell/newell.github.io/assets/4163356/0018a9eb-4a4d-4389-ae14-a4dba142f1ee)
+
+![monoclinic-mag-4](https://github.com/newell/newell.github.io/assets/4163356/24f5a8a9-854c-4288-ae36-642b6905abc1)
+
 
 ### Orthorhombic
 
+![orthorhombic-mag-1](https://github.com/newell/newell.github.io/assets/4163356/79843690-e24c-47bb-9250-b826fb006efc)
+
+![orthorhombic-mag-6](https://github.com/newell/newell.github.io/assets/4163356/abe6edc0-e38f-4bb8-a0b3-c9b78558d853)
+
+
 ### Tetragonal
 
-### Trigonal
+![tetragonal-mag-1](https://github.com/newell/newell.github.io/assets/4163356/33e49b94-a3f9-4575-a695-4a654917b73f)
+
+![tetragonal-mag-3](https://github.com/newell/newell.github.io/assets/4163356/8d0392b2-bfb7-4253-9da9-6007c5c9e217)
+
+
+### Rhombohedral
+
+![rhombohedral-mag-2](https://github.com/newell/newell.github.io/assets/4163356/a9a55fd0-9c06-4abb-b10d-e42b1382de25)
+
+![rhombohedral-mag-6](https://github.com/newell/newell.github.io/assets/4163356/980a3794-1f45-427c-9f93-5b0ea4ec298c)
+
 
 ### Hexagonal
 
+![hexagonal-mag-0](https://github.com/newell/newell.github.io/assets/4163356/d4b31b46-3cbe-4bc9-8656-29879d6cb96d)
+
+![hexagonal-mag-2](https://github.com/newell/newell.github.io/assets/4163356/b302c660-42e0-43c1-aa5c-61e66d81417b)
+
+
 ### Cubic
 
+![cubic-mag-0](https://github.com/newell/newell.github.io/assets/4163356/35d640e1-876b-446e-b098-3800cd970a50)
+
+![cubic-mag-3](https://github.com/newell/newell.github.io/assets/4163356/d722ac50-20d5-4d2c-a527-575fdaf833ba)
