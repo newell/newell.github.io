@@ -12,6 +12,8 @@ $$\displaystyle a^{2}+b^{2}=c^{2}$$.
 
 The theorem is named for the Greek philosopher [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras), born around 570 BC. The theorem has been proved numerous times by many different methods – possibly the most for any mathematical theorem. The proofs are diverse, including both geometric proofs and algebraic proofs, with some dating back thousands of years.
 
+This marked my very first canvas painting and I chose acrylic paints as my medium of choice. I created a model in `geogebra` with the hypotenuse at 19 cm (one of my favorite numbers) and used this as a template for dark thin tape, to make sure the proportions were correct.  I tried to color coordinate the painting for the different steps in Euclid's proof.  I am genuinely pleased with the outcome, as it brings a sense of contentment and fulfillment to my artistic and mathematical endeavors.
+
 ![pythagorean-theorem-0](https://github.com/newell/newell.github.io/assets/4163356/8aaba6cd-678f-4df9-8411-7ff0b6052f95)
 
 ![pythagorean-theorem-1](https://github.com/newell/newell.github.io/assets/4163356/b9a42248-e168-4ffd-98a2-e21ddf4afce8)
@@ -29,7 +31,7 @@ The theorem is named for the Greek philosopher [Pythagoras](https://en.wikipedia
 
 ## Splattered Colors
 
-A painting of splattered colors that was manifested by attaching the canvas to an electric drill with duct tape, applying blobs of paint, and then spinning it into creation.
+A painting of splattered colors that was manifested by attaching the canvas to an electric drill with duct tape, applying blobs of paint, and then spinning it into creation.  I had seen others do this online and felt inspired to give it a try.
 
 ![splatter-0](https://github.com/newell/newell.github.io/assets/4163356/c9160a5c-9381-4b16-9254-46157f656025)
 
