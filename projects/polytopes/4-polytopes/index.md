@@ -5,6 +5,8 @@ A [4-polytope](https://en.wikipedia.org/wiki/4-polytope), also known as a polych
 
 ## Regular 4-polytopes
 
+
+
 A [regular 4-polytope](https://en.wikipedia.org/wiki/Regular_4-polytope) refers to a regular polytope in four dimensions. These remarkable structures are the four-dimensional counterparts of [regular polyhedra](https://en.wikipedia.org/wiki/Regular_polyhedron) in three dimensions and [regular polygons](https://en.wikipedia.org/wiki/Regular_polygon) in two dimensions.
 
 In total, there exist sixteen regular 4-polytopes, comprising six [convex](https://en.wikipedia.org/wiki/Convex_polytope) polytopes and ten [star](https://en.wikipedia.org/wiki/Star_polytope) polytopes. The convex polytopes possess a fully enclosed and convex shape, while the star polytopes exhibit a more intricate and star-like configuration.
@@ -25,7 +27,9 @@ Each convex regular 4-polytope is enclosed by a collection of three-dimensional 
 
 In the realm of four-dimensional geometry, the counterpart of the [tetrahedron](https://en.wikipedia.org/wiki/Tetrahedron) finds its representation in the [5-cell](https://en.wikipedia.org/wiki/5-cell), alternatively known as the pentachoron, pentatope, or the 4-simplex.
 
-The Schläfli symbol for the 5-cell is {3,3,3}.
+The Schläfli symbol for the 5-cell is $$\{3,3,3\}$$.
+
+
 
 
 #### 16-cell, hexadecachoron, 4-orthoplex
@@ -34,14 +38,14 @@ The [16-cell](https://en.wikipedia.org/wiki/16-cell), stands as a regular convex
 
 This polytope belongs to a family of polytopes referred to as [cross-polytopes](https://en.wikipedia.org/wiki/Cross-polytope) or orthoplexes and draws an analogy to the [octahedron](https://en.wikipedia.org/wiki/Octahedron) in three dimensions.
 
-The Schläfli symbol for the 16-cell is {3,3,4}.
+The Schläfli symbol for the 16-cell is $$\{3,3,4\}$$.
 
 
 #### 8-cell, octachoron, tesseract, 4-cube
 
 The 8-cell, or [tesseract](https://en.wikipedia.org/wiki/Tesseract) represents the four-dimensional equivalent of a cube, analogous to how a cube relates to a square. Just as a cube comprises six square faces, a tesseract's hypersurface consists of eight cubical cells. The dual polytope of a tesseract is known as the 16-cell.
 
-The Schläfli symbol for the 8-cell is {4,3,3}.
+The Schläfli symbol for the 8-cell is $$\{4,3,3\}$$.
 
 
 #### 24-cell, icositetrachoron, octaplex, polyoctahedron
@@ -50,20 +54,20 @@ The boundary of the [24-cell](https://en.wikipedia.org/wiki/24-cell) consists of
 
 Unlike the other five convex regular 4-polytopes, the 24-cell does not have a direct counterpart among the five regular Platonic solids in three dimensions. It stands as a unique regular polytope that lacks a regular analogue in the adjacent dimension, whether lower or higher. However, it can be understood as the analogue of a pair of irregular solids: the cuboctahedron and its dual, the rhombic dodecahedron.
 
-The Schläfli symbol for the 24-cell is {3,4,3}.
+The Schläfli symbol for the 24-cell is $$\{3,4,3\}$$.
 
 
 #### 600-cell, hexacosichoron, tetraplex, polytetrahedron
 
 The [600-cell's](https://en.wikipedia.org/wiki/600-cell) boundary consists of 600 tetrahedral cells, with 20 cells converging at each vertex. This arrangement gives rise to a structure comprising 1200 triangular faces, 720 edges, and 120 vertices. In essence, the 600-cell serves as the four-dimensional analogue of the icosahedron, mirroring the icosahedron's characteristic of five triangles converging at each vertex. The dual polytope of the 600-cell is known as the 120-cell.
 
-The Schläfli symbol for the 600-cell is {3,3,5}.
+The Schläfli symbol for the 600-cell is $$\{3,3,5\}$$.
 
 
 #### 120-cell, hecatonicosachoron, dodecacontachoron, dodecaplex, polydodecahedron
 
 The boundary of the [120-cell](https://en.wikipedia.org/wiki/120-cell) consists of 120 dodecahedral cells, with four cells converging at each vertex. This configuration results in a structure comprising 720 pentagonal faces, 1200 edges, and 600 vertices. In terms of analogy, the 120-cell serves as the four-dimensional counterpart to the regular dodecahedron. Just as a dodecahedron features 12 pentagonal facets, with three facets around each vertex, the 120-cell exhibits 120 dodecahedral facets, with three facets around each edge. The dual polytope of the 120-cell is the 600-cell.
 
-The Schläfli symbol for the 120-cell is {5,3,3}.
+The Schläfli symbol for the 120-cell is $$\{5,3,3\}$$.
 
 
