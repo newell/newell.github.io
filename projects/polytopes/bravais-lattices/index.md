@@ -18,30 +18,108 @@ In the realm of crystallography, a crystal system represents a collection of poi
 
 The seven crystal systems are:
 
-* [triclinic](https://en.wikipedia.org/wiki/Triclinic_crystal_system)
-* [monoclinic](https://en.wikipedia.org/wiki/Monoclinic_crystal_system)
-* [orthorhombic](https://en.wikipedia.org/wiki/Orthorhombic_crystal_system)
-* [tetragonal](https://en.wikipedia.org/wiki/Tetragonal_crystal_system)
-* [trigonal and hexagonal](https://en.wikipedia.org/wiki/Hexagonal_crystal_family)
-* [cubic](https://en.wikipedia.org/wiki/Cubic_crystal_system)
+* [Triclinic](https://en.wikipedia.org/wiki/Triclinic_crystal_system)
+* [Monoclinic](https://en.wikipedia.org/wiki/Monoclinic_crystal_system)
+* [Orthorhombic](https://en.wikipedia.org/wiki/Orthorhombic_crystal_system)
+* [Tetragonal](https://en.wikipedia.org/wiki/Tetragonal_crystal_system)
+* [Rhombohedral/Trigonal and Hexagonal](https://en.wikipedia.org/wiki/Hexagonal_crystal_family)
+* [Cubic](https://en.wikipedia.org/wiki/Cubic_crystal_system)
 
 Informally, two crystals are in the same crystal system if they have similar symmetries (albeit there are many exceptions).
+
+The international symbols for the Bravais lattices are as follows:
+
+1. Triclinic: letter $$a$$
+2. Monoclinic: letter $$m$$
+3. Orthorhombic: letter $$o$$
+4. Tetragonal: letter $$t$$
+5. Rhombohedral/Trigonal: letter $$h$$ or $$R$$
+6. Hexagonal: letter $$h$$
+7. Cubic: letter $$c$$
+
+These symbols are used to denote the specific Bravais lattice corresponding to each crystal system.
+
+<!-- This can be confusing when first introduced to these concepts so if this is your case, please look to other online sources to help clear up the confusion.  A textbook that I am particulary fond of, and recommend, is *Structure of Materials: An Introduction to Crystallography, Diffraction and Symmetry (2nd Edition)*. -->
 
 
 ## 14 Bravais Lattices
 
 [![bravais-lattices-0](https://github.com/newell/newell.github.io/assets/4163356/fb1e3460-88db-46f2-9130-0b9f34bdd545)](https://github.com/newell/newell.github.io/assets/4163356/fb1e3460-88db-46f2-9130-0b9f34bdd545)
 
-There exist 14 Bravais lattices in three-dimensional space. Personally, I have undertaken the creation of 3D zome figures representing these lattices using a combination of [Zome](https://en.wikipedia.org/wiki/Zome) balls and 3D printed struts that I fabricated at my own residence. One of the motivations behind printing my own struts was to attain distinct colors for each individual figure. However, the process of 3D printing the Zome balls proved to be more challenging, so I opted to purchase them instead. In the following sections, we will explore these lattices, progressing from the least symmetric to the most symmetric structures.
+There exist 14 Bravais lattices in three-dimensional space.
+
+Here are the international symbols for each of the 14 Bravais lattices:
+
+1. Triclinic: $$aP$$
+2. Monoclinic:
+   - Primitive: $$mP$$
+   - Base-centered: $$mC$$
+   - Face-centered: $$mF$$
+3. Orthorhombic:
+   - Primitive: $$oP$$
+   - Base-centered: $$oC$$
+   - Body-centered: $$oI$$
+   - Face-centered: $$oF$$
+4. Tetragonal:
+   - Primitive: $$tP$$
+   - Body-centered: $$tI$$
+5. Rhombohedral/Trigonal:
+   - Primitive: $$hP$$
+   - Hexagonal: $$hR$$
+6. Hexagonal: $$hP$$
+7. Cubic:
+   - Primitive: $$cP$$
+   - Body-centered: $$cI$$
+   - Face-centered: $$cF$$
+   - Base-centered: $$cC$$
+
+These symbols are used to represent the different crystal systems and their corresponding Bravais lattices.
+
+I have undertaken the creation of 3D zome figures representing these lattices using a combination of [Zome](https://en.wikipedia.org/wiki/Zome) balls and 3D printed struts that I fabricated at my own residence. One of the motivations behind printing my own struts was to attain distinct colors for each individual figure. However, the process of 3D printing the Zome balls proved to be more challenging, so I opted to purchase them instead.
+
+Zometool comes with different strut sizes for each color.  The parts list for each of the figures in this project will be given with the associated Zometool color and size.
+
+Zometool parts needed in this project:
+
+* b0 = short blue strut
+* b1 = medium blue strut
+* b2 = long blue strut
+* y1 = medium yellow strut
+* r0 = short red strut
+* r1 = medium red strut
+* hg1 = medium half green strut
+* balls = Zome balls
 
 
 ### Triclinic
+
+$$aP$$:
+
+* 8 balls
+* 4 b1
+* 4 y1
+* 4 r1
 
 [![triclinic-0](https://github.com/newell/newell.github.io/assets/4163356/a94c38d8-b523-45e7-8284-71026589318f)](https://github.com/newell/newell.github.io/assets/4163356/a94c38d8-b523-45e7-8284-71026589318f)
 
 [![triclinic-2](https://github.com/newell/newell.github.io/assets/4163356/654ccc13-bb44-405b-8910-1979c00bbc68)](https://github.com/newell/newell.github.io/assets/4163356/654ccc13-bb44-405b-8910-1979c00bbc68)
 
 ### Monoclinic
+
+$$mP$$:
+
+* 8 balls
+* 4 b0
+* 4 b1
+* 4 y1
+
+$$mC$$:
+
+* 10 balls
+* 4 b0
+* 4 b1
+* 4 y1
+* 8 r0
 
 [![monoclinic-0](https://github.com/newell/newell.github.io/assets/4163356/dfe4ee9b-6e40-4e1e-9aa7-bc7defedff6c)](https://github.com/newell/newell.github.io/assets/4163356/dfe4ee9b-6e40-4e1e-9aa7-bc7defedff6c)
 
@@ -50,12 +128,56 @@ There exist 14 Bravais lattices in three-dimensional space. Personally, I have u
 
 ### Orthorhombic
 
+$$oP$$:
+
+* 8 balls
+* 4 b0
+* 4 b1
+* 4 b2
+
+$$oI$$:
+
+* 9 balls
+* 4 b0
+* 12 b1
+* 4 b2
+
+$$oC$$:
+
+* 10 balls
+* 4 b0
+* 4 b1
+* 4 b2
+* 8 r0
+
+$$oF$$:
+
+* 14 balls
+* 4 b0
+* 4 b1
+* 4 b2
+* 8 r0
+* 8 r1
+
 [![orthorhombic-3](https://github.com/newell/newell.github.io/assets/4163356/b0cff8eb-a092-4880-b3de-ea3ab127f88d)](https://github.com/newell/newell.github.io/assets/4163356/b0cff8eb-a092-4880-b3de-ea3ab127f88d)
 
 [![orthorhombic-5](https://github.com/newell/newell.github.io/assets/4163356/83da87cf-b8d7-42b4-880f-c8ac5c637e03)](https://github.com/newell/newell.github.io/assets/4163356/83da87cf-b8d7-42b4-880f-c8ac5c637e03)
 
 
 ### Tetragonal
+
+$$tP$$:
+
+* 8 balls
+* 4 b2
+* 8 hg1
+
+$$tI$$:
+
+* 9 balls
+* 4 b2
+* 8 hg1
+* 4 r1
 
 [![tetragonal-0](https://github.com/newell/newell.github.io/assets/4163356/1564184e-cc10-4219-8070-b15261d310f1)](https://github.com/newell/newell.github.io/assets/4163356/1564184e-cc10-4219-8070-b15261d310f1)
 
@@ -65,6 +187,11 @@ There exist 14 Bravais lattices in three-dimensional space. Personally, I have u
 
 ### Rhombohedral
 
+$$R$$:
+
+* 8 balls
+* 12 r1
+
 [![rhombohedral-1](https://github.com/newell/newell.github.io/assets/4163356/f734b933-81e7-4538-8443-8f0cee33c42d)](https://github.com/newell/newell.github.io/assets/4163356/f734b933-81e7-4538-8443-8f0cee33c42d)
 
 [![rhombohedral-0](https://github.com/newell/newell.github.io/assets/4163356/2671ed6b-bfdf-4ce6-bf92-84f3c76a13fa)](https://github.com/newell/newell.github.io/assets/4163356/2671ed6b-bfdf-4ce6-bf92-84f3c76a13fa)
@@ -72,12 +199,35 @@ There exist 14 Bravais lattices in three-dimensional space. Personally, I have u
 
 ### Hexagonal
 
+$$hP$$:
+
+* 14 balls
+* 24 b0
+* 7 y1
+
 [![hexagonal-1](https://github.com/newell/newell.github.io/assets/4163356/718596a7-b4da-41df-b645-b99b8cc0ded7)](https://github.com/newell/newell.github.io/assets/4163356/718596a7-b4da-41df-b645-b99b8cc0ded7)
 
 [![hexagonal-2](https://github.com/newell/newell.github.io/assets/4163356/40a6928a-8237-4845-acc4-bccf622b1954)](https://github.com/newell/newell.github.io/assets/4163356/40a6928a-8237-4845-acc4-bccf622b1954)
 
 
 ### Cubic
+
+$$cP$$:
+
+* 8 balls
+* 12 b1
+
+$$cI$$:
+
+* 9 balls
+* 12 b1
+* 8 y1
+
+$$cF$$:
+
+* 14 balls
+* 12 b1
+* 24 hg1
 
 [![cubic-1](https://github.com/newell/newell.github.io/assets/4163356/c0b792e2-670c-43ec-8ff7-0f299ae98e3f)](https://github.com/newell/newell.github.io/assets/4163356/c0b792e2-670c-43ec-8ff7-0f299ae98e3f)
 
@@ -94,8 +244,38 @@ The utilization of magnetic space groups in crystal structures is driven by Curi
 
 The translational symmetry of the structure in [black-white Bravais lattices](https://en.wikipedia.org/wiki/Magnetic_space_group#Black-white_Bravais_lattices), similar to typical Bravais lattices, is characterized. However, black-white Bravais lattices also incorporate additional symmetry elements. In these lattices, the number of black and white sites is always equal. In total, there are 14 traditional Bravais lattices, 14 grey lattices, and 22 black-white Bravais lattices, resulting in a collection of 50 two-color lattices in three dimensions.
 
+Here are the international symbols for each of the 22 magnetic Bravais lattices:
+
+1. Triclinic: $$aP_c$$
+2. Monoclinic:
+   - Primitive: $$mP_a, mP_b, mP_C$$
+   - Base-centered: $$mC_b, mC_c$$
+3. Orthorhombic:
+   - Primitive: $$oP_a, oP_C, oP_I$$
+   - Base-centered: $$oC_b, oC_c, oC_A$$
+   - Body-centered: $$oI_c$$
+   - Face-centered: $$oF_I$$
+4. Tetragonal:
+   - Primitive: $$tP_c, tP_C, tP_I$$
+   - Body-centered: $$tI_c$$
+5. Rhombohedral/Trigonal:
+   - Hexagonal: $$rPI = hRc$$
+6. Hexagonal: $$hP_c$$
+7. Cubic:
+   - Primitive: $$cP_I$$
+   - Face-centered: $$cF_I$$
+
+The below images show both the white and the black-white Bravais lattices but parts will only be listed for the black-white Bravais lattices.
 
 ### Triclinic
+
+$$aP_c$$:
+
+* 8 white balls
+* 4 black balls
+* 6 b1
+* 6 y1
+* 8 r1
 
 [![triclinic-mag-0](https://github.com/newell/newell.github.io/assets/4163356/3bbc39ce-69d8-431e-b265-2bacba5cd49d)](https://github.com/newell/newell.github.io/assets/4163356/3bbc39ce-69d8-431e-b265-2bacba5cd49d)
 
@@ -104,12 +284,124 @@ The translational symmetry of the structure in [black-white Bravais lattices](ht
 
 ### Monoclinic
 
+$$mP_a$$:
+
+* 8 white balls
+* 4 black balls
+* 8 b0
+* 6 b1
+* 6 y1
+
+$$mP_b$$:
+
+* 8 white balls
+* 4 black balls
+* 6 b0
+* 8 b1
+* 6 y1
+
+$$mC_b$$:
+
+* 10 white balls
+* 8 black balls
+* 12 b0
+* 12 b1
+* 9 y1
+
+$$mC_c$$:
+
+* 10 white balls
+* 5 black balls
+* 6 b0
+* 6 b1
+* 8 y1
+* 12 r0
+
+$$mP_C$$:
+
+* 8 white balls
+* 2 black balls
+* 4 b0
+* 4 b1
+* 4 y1
+* 8 r0
+
 [![monoclinic-mag-1](https://github.com/newell/newell.github.io/assets/4163356/0018a9eb-4a4d-4389-ae14-a4dba142f1ee)](https://github.com/newell/newell.github.io/assets/4163356/0018a9eb-4a4d-4389-ae14-a4dba142f1ee)
 
 [![monoclinic-mag-4](https://github.com/newell/newell.github.io/assets/4163356/24f5a8a9-854c-4288-ae36-642b6905abc1)](https://github.com/newell/newell.github.io/assets/4163356/24f5a8a9-854c-4288-ae36-642b6905abc1)
 
 
 ### Orthorhombic
+
+$$oP_a$$:
+
+* 8 white balls
+* 4 black balls
+* 8 b0
+* 6 b1
+* 6 b2
+
+$$oC_b$$:
+
+* 10 white balls
+* 8 black balls
+* 12 b0
+* 12 b1
+* 9 b2
+
+$$oF_I$$:
+
+* 14 white balls
+* 13 black balls
+* 18 b0
+* 18 b1
+* 18 b2
+
+$$oC_c$$:
+
+* 10 white balls
+* 5 black balls
+* 6 b0
+* 6 b1
+* 8 b2
+* 12 r0
+
+$$oP_C$$:
+
+* 8 white balls
+* 2 black balls
+* 4 b0
+* 4 b1
+* 4 b2
+* 8 r0
+
+$$oI_c$$:
+
+* 9 white balls
+* 6 black balls
+* 6 b0
+* 6 b1
+* 8 b2
+* 12 r0
+
+$$oC_A$$:
+
+* 10 white balls
+* 4 b0
+* 4 b1
+* 4 b2
+* 8 r0
+* 8 r1
+* 8 y1
+
+$$oP_I$$:
+
+* 8 white balls
+* 1 black ball
+* 4 b0
+* 12 b1
+* 4 b2
+
 
 [![orthorhombic-mag-1](https://github.com/newell/newell.github.io/assets/4163356/79843690-e24c-47bb-9250-b826fb006efc)](https://github.com/newell/newell.github.io/assets/4163356/79843690-e24c-47bb-9250-b826fb006efc)
 
@@ -118,12 +410,52 @@ The translational symmetry of the structure in [black-white Bravais lattices](ht
 
 ### Tetragonal
 
+$$tP_c$$:
+
+* 8 white balls
+* 4 black balls
+* 8 b2
+* 12 hg1
+
+$$tP_C$$:
+
+* 8 white balls
+* 2 black balls
+* 8 b1
+* 8 b2
+* 8 hg1
+
+$$tI_c$$:
+
+* 9 white balls
+* 6 black balls
+* 12 b1
+* 8 b2
+* 12 hg1
+
+$$tP_I$$:
+
+* 8 white balls
+* 1 black ball
+* 4 b2
+* 4 r1
+* 8 hg1
+
 [![tetragonal-mag-1](https://github.com/newell/newell.github.io/assets/4163356/33e49b94-a3f9-4575-a695-4a654917b73f)](https://github.com/newell/newell.github.io/assets/4163356/33e49b94-a3f9-4575-a695-4a654917b73f)
 
 [![tetragonal-mag-3](https://github.com/newell/newell.github.io/assets/4163356/8d0392b2-bfb7-4253-9da9-6007c5c9e217)](https://github.com/newell/newell.github.io/assets/4163356/8d0392b2-bfb7-4253-9da9-6007c5c9e217)
 
 
 ### Rhombohedral
+
+$$hR_c$$:
+
+* 8 white balls
+* 1 black ball
+* 12 r1
+* 2 custom (y1 + y2)/2
+
+For the last one I had to make two custom yellow struts that was half the distance between y1 and y2.
 
 [![rhombohedral-mag-2](https://github.com/newell/newell.github.io/assets/4163356/a9a55fd0-9c06-4abb-b10d-e42b1382de25)](https://github.com/newell/newell.github.io/assets/4163356/a9a55fd0-9c06-4abb-b10d-e42b1382de25)
 
@@ -132,12 +464,32 @@ The translational symmetry of the structure in [black-white Bravais lattices](ht
 
 ### Hexagonal
 
+$$hP_c$$:
+
+* 14 white balls
+* 7 black balls
+* 36 b0
+* 14 y1
+
 [![hexagonal-mag-0](https://github.com/newell/newell.github.io/assets/4163356/d4b31b46-3cbe-4bc9-8656-29879d6cb96d)](https://github.com/newell/newell.github.io/assets/4163356/d4b31b46-3cbe-4bc9-8656-29879d6cb96d)
 
 [![hexagonal-mag-2](https://github.com/newell/newell.github.io/assets/4163356/b302c660-42e0-43c1-aa5c-61e66d81417b)](https://github.com/newell/newell.github.io/assets/4163356/b302c660-42e0-43c1-aa5c-61e66d81417b)
 
 
 ### Cubic
+
+$$cF_I$$:
+
+* 14 white balls
+* 13 black balls
+* 54 b1
+
+$$cP_I$$:
+
+* 8 white balls
+* 1 black ball
+* 12 b1
+* 8 y1
 
 [![cubic-mag-0](https://github.com/newell/newell.github.io/assets/4163356/35d640e1-876b-446e-b098-3800cd970a50)](https://github.com/newell/newell.github.io/assets/4163356/35d640e1-876b-446e-b098-3800cd970a50)
 
