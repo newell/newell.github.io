@@ -4,7 +4,7 @@ Here are some paintings I have done for the house.
 
 ## Euclid's Proof of Pythagorean Theorem
 
-The Pythagorean theorem, also known as Pythagoras' theorem, stands as a foundational principle in Euclidean geometry that establishes a crucial relationship among the three sides of a right triangle. According to this theorem, the combined area of the squares constructed on the two shorter sides is precisely equal to the area of the square formed on the longest side, also known as the hypotenuse.
+The [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem), also known as Pythagoras' theorem, stands as a foundational principle in Euclidean geometry that establishes a crucial relationship among the three sides of a right triangle. According to this theorem, the combined area of the squares constructed on the two shorter sides is precisely equal to the area of the square formed on the longest side, also known as the hypotenuse.
 
 The theorem can be written as an equation relating the lengths of the sides $$a$$, $$b$$ and the hypotenuse $$c$$, sometimes called the Pythagorean equation:
 
