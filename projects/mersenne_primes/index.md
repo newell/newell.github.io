@@ -11,7 +11,7 @@ The odds of finding a new world record largest prime number are low but there is
 
 To give you an idea of how large the prime numbers we are searching for are, we will compare the size of these primes numbers to the approximate number of atoms in the Universe.  The [number of atoms in the observable Universe](https://en.wikipedia.org/wiki/Observable_universe#Matter_content%E2%80%94number_of_atoms) has been stated to be approximately 10<sup>80</sup> atoms.  If we were to write this down on paper, that would be the number 1 followed by 80 zeros.  Obviously all the atoms in the observable Universe is a big number but the primes that will win you the prize in the above contest is a prime number with 100 million decimal digits.  If you were to write down this number on paper starting with a 1, like before, we would then need to follow it with 100 million other numbers, not just 80 zeros.  The difference is enormous.  This comparision give us an idea of just how large these prime numbers are that we are searching for.  They are much larger than the approximated number of atoms in the observable Universe!
 
-In order to search for these large primes, obviously you need to be running algorithms that search for them such as the Lucas-Lehmer test mentioned above.  On top of that, these types of algorithms are much faster on GPUs than your standard CPU.  Below is a parts list of the hardware for the computer I built to search for Mersenne primes.  
+In order to search for these large primes, obviously you need to be running algorithms that search for them such as the Lucas-Lehmer test mentioned above.  On top of that, these types of algorithms are much faster on GPUs than your standard CPU.  Below is a parts list of the hardware for the computer I built to search for Mersenne primes.
 
 ## Hardware Parts List
 ```
@@ -31,10 +31,10 @@ In order to search for these large primes, obviously you need to be running algo
 * [gpuowl](https://github.com/preda/gpuowl)
 ```
 
-![mersenne-0](https://github.com/newell/newell.github.io/assets/4163356/ff6bc2b6-c00d-49e4-b770-8cd7b5ab289e)
+[![mersenne-0](https://github.com/newell/newell.github.io/assets/4163356/ff6bc2b6-c00d-49e4-b770-8cd7b5ab289e)](https://github.com/newell/newell.github.io/assets/4163356/ff6bc2b6-c00d-49e4-b770-8cd7b5ab289e)
 
-![mersenne-1](https://github.com/newell/newell.github.io/assets/4163356/25a95988-cbfd-4916-b635-a52f373bf8b1)
+[![mersenne-1](https://github.com/newell/newell.github.io/assets/4163356/25a95988-cbfd-4916-b635-a52f373bf8b1)](https://github.com/newell/newell.github.io/assets/4163356/25a95988-cbfd-4916-b635-a52f373bf8b1)
 
-![mersenne-2](https://github.com/newell/newell.github.io/assets/4163356/63e4df3c-0939-46b8-9ada-2694ce22ad06)
+[![mersenne-2](https://github.com/newell/newell.github.io/assets/4163356/63e4df3c-0939-46b8-9ada-2694ce22ad06)](https://github.com/newell/newell.github.io/assets/4163356/63e4df3c-0939-46b8-9ada-2694ce22ad06)
 
-![mersenne-3](https://github.com/newell/newell.github.io/assets/4163356/bb4a0592-bf53-468c-bcfa-9b718a4e00f5)
+[![mersenne-3](https://github.com/newell/newell.github.io/assets/4163356/bb4a0592-bf53-468c-bcfa-9b718a4e00f5)](https://github.com/newell/newell.github.io/assets/4163356/bb4a0592-bf53-468c-bcfa-9b718a4e00f5)
