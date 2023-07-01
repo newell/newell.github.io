@@ -37,6 +37,7 @@ There exist 14 Bravais lattices in three-dimensional space. Personally, I have u
 
 ![triclinic-2](https://github.com/newell/newell.github.io/assets/4163356/654ccc13-bb44-405b-8910-1979c00bbc68)
 
+[![](https://github.com/newell/newell.github.io/assets/4163356/654ccc13-bb44-405b-8910-1979c00bbc68)](https://github.com/newell/newell.github.io/assets/4163356/654ccc13-bb44-405b-8910-1979c00bbc68)
 
 ### Monoclinic
 
