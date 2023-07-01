@@ -1,7 +1,6 @@
 # Projects
 
 [Electronics](https://newell.github.io/projects/electronics)
-
 * [Oscillators](https://newell.github.io/projects/electronics/oscillators)
   * [Nonlinear Oscillators](https://newell.github.io/projects/electronics/oscillators/nonlinear)
     * [Op-Amp Oscillators](https://newell.github.io/projects/electronics/oscillators/nonlinear/opamp)
@@ -23,6 +22,15 @@
         * [Crystal](https://newell.github.io/projects/electronics/oscillators/linear/fet/crystal)
 
 [Polytopes](https://newell.github.io/projects/polytopes)
+* [4-Polytopes](https://newell.github.io/projects/polytopes/4-polytopes)
+* [Platonic Solids](https://newell.github.io/projects/polytopes/platonic-solids)
+* [Archimedean Solids](https://newell.github.io/projects/polytopes/archimedean-solids)
+* [Catalan Solids](https://newell.github.io/projects/polytopes/catalan-solids)
+* [Johnson Solids](https://newell.github.io/projects/polytopes/johnson-solids)
+* [Kepler-Poinsot Polyhedra](https://newell.github.io/projects/polytopes/kepler-poinsot)
+
+* [Bravais Lattices](https://newell.github.io/projects/polytopes/bravais-lattices)
+* [Crystal Forms](https://newell.github.io/projects/polytopes/crystal-forms)
 
 [Byrne's Euclid](https://newell.github.io/projects/byrnes-euclid)
 
