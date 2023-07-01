@@ -8,7 +8,7 @@ The Pythagorean theorem, also known as Pythagoras' theorem, stands as a foundati
 
 The theorem can be written as an equation relating the lengths of the sides $$a$$, $$b$$ and the hypotenuse $$c$$, sometimes called the Pythagorean equation:
 
-$$\displaystyle a^{2}+b^{2}=c^{2}$$.
+$$\begin{align}a^{2}+b^{2}=c^{2}\end{align}$$
 
 The theorem is named for the Greek philosopher [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras), born around 570 BC. The theorem has been proved numerous times by many different methods – possibly the most for any mathematical theorem. The proofs are diverse, including both geometric proofs and algebraic proofs, with some dating back thousands of years.
 
