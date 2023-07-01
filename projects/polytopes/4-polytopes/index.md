@@ -32,8 +32,6 @@ In the realm of four-dimensional geometry, the counterpart of the [tetrahedron](
 The Schläfli symbol for the 5-cell is $$\{3,3,3\}$$.
 
 Vertex-first projection:
-
-Parts
 - 5 balls
 - 5 y2
 - 6 g2
@@ -43,8 +41,6 @@ Parts
 [![5-cell-1](https://github.com/newell/newell.github.io/assets/4163356/65224929-24c5-4d92-bbdf-58e3e4ac9738)](https://github.com/newell/newell.github.io/assets/4163356/65224929-24c5-4d92-bbdf-58e3e4ac9738)
 
 Orthogonal projection:
-
-Parts
 - 5 balls
 - 2 b2
 - 4 y2
@@ -67,17 +63,13 @@ This polytope belongs to a family of polytopes referred to as [cross-polytopes](
 The Schläfli symbol for the 16-cell is $$\{3,3,4\}$$.
 
 Vertex-first projection:
-
-Parts
 - 7 balls
 - 6 b2
 - 12 g2
 
 [![16-cell-2](https://github.com/newell/newell.github.io/assets/4163356/afa432b3-c29b-4093-990b-8540b56bcfa4)](https://github.com/newell/newell.github.io/assets/4163356/afa432b3-c29b-4093-990b-8540b56bcfa4)
 
-Three different orthogonal projections:
-
-Parts (same for all three)
+Three different orthogonal projections (same for all three):
 - 8 balls
 - 6 b2
 - 6 r1
@@ -100,8 +92,6 @@ The 8-cell, or [tesseract](https://en.wikipedia.org/wiki/Tesseract) represents t
 The Schläfli symbol for the 8-cell is $$\{4,3,3\}$$.
 
 Cell-first projection:
-
-Parts
 - 16 balls
 - 12 b1
 - 12 b2
@@ -110,8 +100,6 @@ Parts
 [![8-cell4](https://github.com/newell/newell.github.io/assets/4163356/7d3b4d72-20c1-49e3-9007-15859991de57)](https://github.com/newell/newell.github.io/assets/4163356/7d3b4d72-20c1-49e3-9007-15859991de57)
 
 Vertex-first projection:
-
-Parts
 - 15 balls
 - 28 y2
 
@@ -131,8 +119,6 @@ Unlike the other five convex regular 4-polytopes, the 24-cell does not have a di
 The Schläfli symbol for the 24-cell is $$\{3,4,3\}$$.
 
 Cell-first projection:
-
-Parts
 - 8 balls
 - 16 b2
 - 28 g2
@@ -140,8 +126,6 @@ Parts
 [![24-cell-2](https://github.com/newell/newell.github.io/assets/4163356/5a3612bf-b47a-4f27-905a-5d0787cd7f41)](https://github.com/newell/newell.github.io/assets/4163356/5a3612bf-b47a-4f27-905a-5d0787cd7f41)
 
 Vertex-first projection:
-
-Parts
 - 15 balls
 - 12 b2
 - 32 y2
@@ -156,8 +140,6 @@ The [600-cell's](https://en.wikipedia.org/wiki/600-cell) boundary consists of 60
 The Schläfli symbol for the 600-cell is $$\{3,3,5\}$$.
 
 Vertex-first projection:
-
-Parts
 - 75 balls
 - 120 b1
 - 120 y1
@@ -176,8 +158,6 @@ The boundary of the [120-cell](https://en.wikipedia.org/wiki/120-cell) consists 
 The Schläfli symbol for the 120-cell is $$\{5,3,3\}$$.
 
 Cell-first projection:
-
-Parts
 - 330 balls
 - 180 b2
 - 200 y2
