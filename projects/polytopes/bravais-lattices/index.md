@@ -44,7 +44,8 @@ If you are seeking further information on the subjects covered in this project, 
 
 ## 14 Bravais Lattices
 
-[![bravais-lattices-0](https://github.com/newell/newell.github.io/assets/4163356/fb1e3460-88db-46f2-9130-0b9f34bdd545)](https://github.com/newell/newell.github.io/assets/4163356/fb1e3460-88db-46f2-9130-0b9f34bdd545)
+[![bravias-lattices-1-cropped](https://github.com/newell/newell.github.io/assets/4163356/14168382-6df8-4ab0-a6a1-c7ad4be6704c)]((https://github.com/newell/newell.github.io/assets/4163356/14168382-6df8-4ab0-a6a1-c7ad4be6704c)
+)
 
 There exist 14 Bravais lattices in three-dimensional space.
 
