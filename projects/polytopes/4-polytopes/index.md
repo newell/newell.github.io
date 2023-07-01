@@ -33,11 +33,23 @@ The Schläfli symbol for the 5-cell is $$\{3,3,3\}$$.
 
 Vertex-first projection:
 
+Parts
+- 5 balls
+- 5 y2
+- 6 g2
+
 [![5-cell-0](https://github.com/newell/newell.github.io/assets/4163356/aae80f53-a1d5-4d1c-bf22-fba48314cb10)](https://github.com/newell/newell.github.io/assets/4163356/aae80f53-a1d5-4d1c-bf22-fba48314cb10)
 
 [![5-cell-1](https://github.com/newell/newell.github.io/assets/4163356/65224929-24c5-4d92-bbdf-58e3e4ac9738)](https://github.com/newell/newell.github.io/assets/4163356/65224929-24c5-4d92-bbdf-58e3e4ac9738)
 
 Orthogonal projection:
+
+Parts
+- 5 balls
+- 2 b2
+- 4 y2
+- 2 r1
+- 2 r2
 
 [![5-cell-2](https://github.com/newell/newell.github.io/assets/4163356/274038ef-21b2-40d0-ade2-1c86a4af276b)](https://github.com/newell/newell.github.io/assets/4163356/274038ef-21b2-40d0-ade2-1c86a4af276b)
 
@@ -56,9 +68,21 @@ The Schläfli symbol for the 16-cell is $$\{3,3,4\}$$.
 
 Vertex-first projection:
 
+Parts
+- 7 balls
+- 6 b2
+- 12 g2
+
 [![16-cell-2](https://github.com/newell/newell.github.io/assets/4163356/afa432b3-c29b-4093-990b-8540b56bcfa4)](https://github.com/newell/newell.github.io/assets/4163356/afa432b3-c29b-4093-990b-8540b56bcfa4)
 
 Three different orthogonal projections:
+
+Parts (same for all three)
+- 8 balls
+- 6 b2
+- 6 r1
+- 6 r2
+- 6 y2
 
 [![16-cell-4](https://github.com/newell/newell.github.io/assets/4163356/767c352b-6d01-42ef-aeaa-454570644a5b)](https://github.com/newell/newell.github.io/assets/4163356/767c352b-6d01-42ef-aeaa-454570644a5b)
 
@@ -77,9 +101,19 @@ The Schläfli symbol for the 8-cell is $$\{4,3,3\}$$.
 
 Cell-first projection:
 
+Parts
+- 16 balls
+- 12 b1
+- 12 b2
+- 8 y0
+
 [![8-cell4](https://github.com/newell/newell.github.io/assets/4163356/7d3b4d72-20c1-49e3-9007-15859991de57)](https://github.com/newell/newell.github.io/assets/4163356/7d3b4d72-20c1-49e3-9007-15859991de57)
 
 Vertex-first projection:
+
+Parts
+- 15 balls
+- 28 y2
 
 [![8-cell-2](https://github.com/newell/newell.github.io/assets/4163356/2b3b9cf0-7e3d-451e-b286-15d61d589854)](https://github.com/newell/newell.github.io/assets/4163356/2b3b9cf0-7e3d-451e-b286-15d61d589854)
 
@@ -98,9 +132,19 @@ The Schläfli symbol for the 24-cell is $$\{3,4,3\}$$.
 
 Cell-first projection:
 
+Parts
+- 8 balls
+- 16 b2
+- 28 g2
+
 [![24-cell-2](https://github.com/newell/newell.github.io/assets/4163356/5a3612bf-b47a-4f27-905a-5d0787cd7f41)](https://github.com/newell/newell.github.io/assets/4163356/5a3612bf-b47a-4f27-905a-5d0787cd7f41)
 
 Vertex-first projection:
+
+Parts
+- 15 balls
+- 12 b2
+- 32 y2
 
 [![24-cell-4](https://github.com/newell/newell.github.io/assets/4163356/c64c7006-2dc4-42c0-bf59-8ca8390cdf67)](https://github.com/newell/newell.github.io/assets/4163356/c64c7006-2dc4-42c0-bf59-8ca8390cdf67)
 
@@ -112,6 +156,13 @@ The [600-cell's](https://en.wikipedia.org/wiki/600-cell) boundary consists of 60
 The Schläfli symbol for the 600-cell is $$\{3,3,5\}$$.
 
 Vertex-first projection:
+
+Parts
+- 75 balls
+- 120 b1
+- 120 y1
+- 72 r0
+- 72 r1
 
 [![600-cell-3](https://github.com/newell/newell.github.io/assets/4163356/0d98c62c-73c1-44f7-9498-efa0d3f5ac55)](https://github.com/newell/newell.github.io/assets/4163356/0d98c62c-73c1-44f7-9498-efa0d3f5ac55)
 
@@ -125,6 +176,13 @@ The boundary of the [120-cell](https://en.wikipedia.org/wiki/120-cell) consists 
 The Schläfli symbol for the 120-cell is $$\{5,3,3\}$$.
 
 Cell-first projection:
+
+Parts
+- 330 balls
+- 180 b2
+- 200 y2
+- 120 r1
+- 120 r2
 
 [![120-cell-1](https://github.com/newell/newell.github.io/assets/4163356/a688338c-ad49-40e1-96a8-8f7ee3d9621e)](https://github.com/newell/newell.github.io/assets/4163356/a688338c-ad49-40e1-96a8-8f7ee3d9621e)
 
