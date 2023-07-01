@@ -39,7 +39,7 @@ The international symbols for the Bravais lattices are as follows:
 
 These symbols are used to denote the specific Bravais lattice corresponding to each crystal system.
 
-If you are seeking further information on the subjects covered in this project, I highly recommend a textbook that I personally find exceptional: *Structure of Materials: An Introduction to Crystallography, Diffraction and Symmetry (2nd Edition)* authored by Marc De Graef and Michael E. McHenry. This resource provides a comprehensive exploration of the topic.
+If you are seeking further information on the subjects covered in this project, I highly recommend a textbook that I personally find exceptional: [*Structure of Materials: An Introduction to Crystallography, Diffraction and Symmetry (2nd Edition)*](https://www.amazon.com/Structure-Materials-Introduction-Crystallography-Diffraction/dp/1107005876) authored by Marc De Graef and Michael E. McHenry. This resource provides a comprehensive exploration of the topic.
 
 
 ## 14 Bravais Lattices
