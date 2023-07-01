@@ -39,7 +39,7 @@ The international symbols for the Bravais lattices are as follows:
 
 These symbols are used to denote the specific Bravais lattice corresponding to each crystal system.
 
-<!-- This can be confusing when first introduced to these concepts so if this is your case, please look to other online sources to help clear up the confusion.  A textbook that I am particulary fond of, and recommend, is *Structure of Materials: An Introduction to Crystallography, Diffraction and Symmetry (2nd Edition)*. -->
+If you are seeking further information on the subjects covered in this project, I highly recommend a textbook that I personally find exceptional: *Structure of Materials: An Introduction to Crystallography, Diffraction and Symmetry (2nd Edition)* authored by Marc De Graef and Michael E. McHenry. This resource provides a comprehensive exploration of the topic.
 
 
 ## 14 Bravais Lattices
@@ -455,7 +455,7 @@ $$hR_c$$:
 * 12 r1
 * 2 custom (y1 + y2)/2
 
-For the last one I had to make two custom yellow struts that was half the distance between y1 and y2.
+For the last one I had to make two custom yellow struts that was half the distance of y1 plus y2.
 
 [![rhombohedral-mag-2](https://github.com/newell/newell.github.io/assets/4163356/a9a55fd0-9c06-4abb-b10d-e42b1382de25)](https://github.com/newell/newell.github.io/assets/4163356/a9a55fd0-9c06-4abb-b10d-e42b1382de25)
 
