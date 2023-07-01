@@ -30,9 +30,9 @@ Informally, two crystals are in the same crystal system if they have similar sym
 
 ## 14 Bravais Lattices
 
-There exist 14 Bravais lattices in three-dimensional space. Personally, I have undertaken the creation of 3D zome figures representing these lattices using a combination of [Zome](https://en.wikipedia.org/wiki/Zome) balls and 3D printed struts that I fabricated at my own residence. One of the motivations behind printing my own struts was to attain distinct colors for each individual figure. However, the process of 3D printing the Zome balls proved to be more challenging, so I opted to purchase them instead. In the following sections, we will explore these lattices, progressing from the least symmetric to the most symmetric structures.
-
 [![bravais-lattices-0](https://github.com/newell/newell.github.io/assets/4163356/fb1e3460-88db-46f2-9130-0b9f34bdd545)](https://github.com/newell/newell.github.io/assets/4163356/fb1e3460-88db-46f2-9130-0b9f34bdd545)
+
+There exist 14 Bravais lattices in three-dimensional space. Personally, I have undertaken the creation of 3D zome figures representing these lattices using a combination of [Zome](https://en.wikipedia.org/wiki/Zome) balls and 3D printed struts that I fabricated at my own residence. One of the motivations behind printing my own struts was to attain distinct colors for each individual figure. However, the process of 3D printing the Zome balls proved to be more challenging, so I opted to purchase them instead. In the following sections, we will explore these lattices, progressing from the least symmetric to the most symmetric structures.
 
 
 ### Triclinic
@@ -86,13 +86,13 @@ There exist 14 Bravais lattices in three-dimensional space. Personally, I have u
 
 ## 22 Black-White (Magnetic) Bravais Lattices
 
+[![all-bravais-lattices-2](https://github.com/newell/newell.github.io/assets/4163356/1936dd85-a756-4fcc-97db-8dadf78f1297)](https://github.com/newell/newell.github.io/assets/4163356/1936dd85-a756-4fcc-97db-8dadf78f1297)
+
 The magnetic space groups, also known as Shubnikov groups, are groups of symmetries that classify both the spatial symmetries of a crystal and a two-valued property such as electron spin. In order to represent this property, each lattice point is assigned either black or white color. In addition to the usual three-dimensional symmetry operations, there is an "antisymmetry" operation that interchanges the colors of all lattice points, turning black to white and white to black. Consequently, the magnetic space groups serve as an expansion of the crystallographic space groups, which solely describe spatial symmetry.
 
 The utilization of magnetic space groups in crystal structures is driven by Curie's Principle. The compatibility between a material's symmetries, as described by the magnetic space group, is a necessary requirement for various material properties, including ferromagnetism, ferroelectricity, and topological insulation.
 
 The translational symmetry of the structure in [black-white Bravais lattices](https://en.wikipedia.org/wiki/Magnetic_space_group#Black-white_Bravais_lattices), similar to typical Bravais lattices, is characterized. However, black-white Bravais lattices also incorporate additional symmetry elements. In these lattices, the number of black and white sites is always equal. In total, there are 14 traditional Bravais lattices, 14 grey lattices, and 22 black-white Bravais lattices, resulting in a collection of 50 two-color lattices in three dimensions.
-
-[![all-bravais-lattices-2](https://github.com/newell/newell.github.io/assets/4163356/1936dd85-a756-4fcc-97db-8dadf78f1297)](https://github.com/newell/newell.github.io/assets/4163356/1936dd85-a756-4fcc-97db-8dadf78f1297)
 
 
 ### Triclinic
