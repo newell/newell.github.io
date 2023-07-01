@@ -4,6 +4,20 @@ Welcome!  Polytopes are beautiful mathematical and geometrical objects.  I have 
 
 *TODO* add picture of entire collection here
 
+Let us introduce some needed terminology.
+
+The Schläfli symbol is a notation, expressed as $$\{p, q, r,\dots\}$$, that defines both regular polytopes and tessellations. It provides a recursive description, starting with $$\{p\}$$ for a convex, $$p$$-sided regular polygon. For instance, $$\{3\}$$ represents an equilateral triangle, $$\{4\}$$ a square, $$\{5\}$$ a convex regular pentagon, and so on.
+
+However, the Schläfli symbol extends beyond convex polygons to include regular star polygons, which are non-convex. The symbols for regular star polygons take the form $$\{p/q\}$$, where $$p$$ denotes the number of vertices and q represents their turning number. These symbols connect the vertices of $$\{p\}$$ every $$q$$ steps, resulting in fascinating shapes. For example, $$\{5/2\}$$ represents a pentagram, and $$\{5/1\}$$ represents a pentagon.
+
+Moving to three dimensions, a regular polyhedron that features $$q$$ regular $$p$$-sided polygon faces around each vertex is denoted by $$\{p, q\}$$. For example, a cube, which has 3 squares around each vertex, is represented by $$\{4, 3\}$$.
+
+Expanding further into four-dimensional space, a regular 4-dimensional polytope with $$r$$ $$\{p, q\}$$ regular polyhedral cells around each edge is symbolized by $$\{p, q, r\}$$. For instance, a tesseract, denoted as $$\{4, 3, 3\}$$, consists of 3 cubes, $$\{4, 3\}$$, surrounding each edge.
+
+In general, a regular polytope represented by $$\{p, q, r,\dots, y, z\}$$ has $$z$$ $$\{p, q, r,\dots, y\}$$ facets around every peak. A peak refers to a vertex in a polyhedron, an edge in a 4-polytope, a face in a 5-polytope, and an ($$n$$-3)-face in an $$n$$-polytope.
+
+The Schläfli symbol's flexibility and concise representation make it an invaluable tool for describing and understanding the structures of regular polytopes and their higher-dimensional counterparts.
+
 [Platonic Solids](https://newell.github.io/projects/polytopes/platonic-solids)
 
 [Kepler-Poinsot Polyhedron](https://newell.github.io/projects/polytopes/kepler-poinsot)
