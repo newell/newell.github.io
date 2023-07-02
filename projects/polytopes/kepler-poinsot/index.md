@@ -1,6 +1,6 @@
 # Kepler-Poinsot Polyhedra
 
-The [Kepler-Poinsot polyhedra](https://en.wikipedia.org/wiki/Kepler%E2%80%93Poinsot_polyhedron) are a special class of convex polyhedra discovered by mathematicians Johannes Kepler and Louis Poinsot in the early 17th century. There are four Kepler-Poinsot polyhedra, each with its own unique set of properties:
+The [Kepler-Poinsot polyhedra](https://en.wikipedia.org/wiki/Kepler%E2%80%93Poinsot_polyhedron) are a special class of convex polyhedra discovered by mathematicians [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) and [Louis Poinsot](https://en.wikipedia.org/wiki/Louis_Poinsot) in the early 17th century. There are four Kepler-Poinsot polyhedra, each with its own unique set of properties:
 
 1. The [Great Icosahedron](https://en.wikipedia.org/wiki/Great_icosahedron): This polyhedron is composed of twenty equilateral triangular faces. Five triangles meet at each vertex. The Great Icosahedron complements the Great Dodecahedron.
 
