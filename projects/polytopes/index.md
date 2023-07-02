@@ -32,6 +32,8 @@ The Schläfli symbol's flexibility and concise representation make it an invalua
 
 [Projective](https://newell.github.io/projects/polytopes/projective)
 
+[Honeycomb Tessellations](https://newell.github.io/projects/polytopes/tessellations)
+
 ## Crystallography and Mineralogy
 
 This particular subsection focuses on polytopes relevant to the fields of crystallography and mineralogy. While some of the aforementioned polyhedra represent various Brillouin Zones found within crystals, one might argue that this subsection could be omitted on that basis. However, the inclusion of this subsection provides a distinct emphasis and concentration on the subject matter at hand.
