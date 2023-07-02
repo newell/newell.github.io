@@ -16,9 +16,9 @@ The discovery of the Kepler-Poinsot polyhedra was a significant contribution to 
 
 Kepler-Poinsot Polyhedra (following the list from left to right):
 
-![kepler-poinsot-0](https://github.com/newell/newell.github.io/assets/4163356/a922b4c9-df49-4e9e-a4f2-0455ec334172)
+[![kepler-poinsot-0](https://github.com/newell/newell.github.io/assets/4163356/a922b4c9-df49-4e9e-a4f2-0455ec334172)](https://github.com/newell/newell.github.io/assets/4163356/a922b4c9-df49-4e9e-a4f2-0455ec334172)
 
-![kepler-poinsoit-1](https://github.com/newell/newell.github.io/assets/4163356/7792d133-ab47-4738-8ff3-a292cd21fc23)
+[![kepler-poinsoit-1](https://github.com/newell/newell.github.io/assets/4163356/7792d133-ab47-4738-8ff3-a292cd21fc23)](https://github.com/newell/newell.github.io/assets/4163356/7792d133-ab47-4738-8ff3-a292cd21fc23)
 
-![kepler-poinsot-2](https://github.com/newell/newell.github.io/assets/4163356/0b702b85-955a-45f3-871d-218bdf758031)
+[![kepler-poinsot-2](https://github.com/newell/newell.github.io/assets/4163356/0b702b85-955a-45f3-871d-218bdf758031)](https://github.com/newell/newell.github.io/assets/4163356/0b702b85-955a-45f3-871d-218bdf758031)
 
