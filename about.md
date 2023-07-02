@@ -2,7 +2,9 @@
 
 Hello, my name is Newell Jensen.  <!-- Here is my [CV](assets/newell_jensen_cv_2023.pdf). -->
 
-I am deeply intersted in logic, mathematics, physics, and engineering.
+I am deeply intersted in logic, computation, mathematics, physics, and engineering.
+
+Formally I have a BS in Applied Mathematics with Minor in Physics from UC Davis and an MSEE from the University of Washington.
 
 I enjoy yoga, calisthenics, gymnastics, and other sports such as football (soccer) and jiu jitsu.
 
