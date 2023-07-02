@@ -2,12 +2,11 @@
 
 I have self published a modern rendition of [Byrne's Euclid](https://www.amazon.com/Byrnes-Euclid-First-Books-Elements/dp/B0BZF4Z67V) on Amazon.  I employed LaTeX for the complete typesetting of this book.
 
-[![book-0-crop](https://github.com/newell/newell.github.io/assets/4163356/790f07d5-f89f-45c2-91f4-a786c0a5a678)](https://github.com/newell/newell.github.io/assets/4163356/790f07d5-f89f-45c2-91f4-a786c0a5a678)
+[![DSC04494-crop](https://github.com/newell/newell.github.io/assets/4163356/c4661481-1186-45cf-8ea0-6d7c6bfd85d1)](https://github.com/newell/newell.github.io/assets/4163356/c4661481-1186-45cf-8ea0-6d7c6bfd85d1)
 
-[![book-2-crop](https://github.com/newell/newell.github.io/assets/4163356/11949902-1685-45d2-8720-0ecb8514c002)
-](https://github.com/newell/newell.github.io/assets/4163356/11949902-1685-45d2-8720-0ecb8514c002)
+[![DSC04495-crop](https://github.com/newell/newell.github.io/assets/4163356/f69ee466-a512-415e-9f68-26c8e81de927)](https://github.com/newell/newell.github.io/assets/4163356/f69ee466-a512-415e-9f68-26c8e81de927)
 
-[![book-4-crop](https://github.com/newell/newell.github.io/assets/4163356/4b5c8a31-4b13-4378-87fe-e49a9f3c6d7f)](https://github.com/newell/newell.github.io/assets/4163356/4b5c8a31-4b13-4378-87fe-e49a9f3c6d7f)
+[![DSC04496-crop](https://github.com/newell/newell.github.io/assets/4163356/0b7608cf-1bfe-4e52-8792-4d9297299d20)](https://github.com/newell/newell.github.io/assets/4163356/0b7608cf-1bfe-4e52-8792-4d9297299d20)
 
 It is my personal opinion that a book of this quality is a treasure to have in hand and your support would be appreciated.
 However, I am also supplying a [free digital copy](https://github.com/newell/newell.github.io/files/11928728/byrnes-euclid.pdf)
