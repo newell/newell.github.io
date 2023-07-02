@@ -2,13 +2,13 @@
 
 The [Kepler-Poinsot polyhedra](https://en.wikipedia.org/wiki/Kepler%E2%80%93Poinsot_polyhedron) are a special class of convex polyhedra discovered by mathematicians [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) and [Louis Poinsot](https://en.wikipedia.org/wiki/Louis_Poinsot) in the early 17th century. There are four Kepler-Poinsot polyhedra, each with its own unique set of properties:
 
-1. The [Great Icosahedron](https://en.wikipedia.org/wiki/Great_icosahedron): This polyhedron is composed of twenty equilateral triangular faces. Five triangles meet at each vertex. The Great Icosahedron complements the Great Dodecahedron.
+1. The [Great Icosahedron](https://en.wikipedia.org/wiki/Great_icosahedron): This polyhedron is composed of twenty equilateral triangular faces. Five triangles meet at each vertex. The Great Icosahedron complements the Great Dodecahedron.  The Schläfli symbol for the Great Icosahedron is $$\{3,\ 5/2\}$$.
 
-2. The [Great Dodecahedron](https://en.wikipedia.org/wiki/Great_dodecahedron): This polyhedron consists of twelve regular pentagonal faces. The angles between adjacent faces are equal, and three faces meet at each vertex. The Great Dodecahedron is dual to the Great Icosahedron.
+2. The [Great Dodecahedron](https://en.wikipedia.org/wiki/Great_dodecahedron): This polyhedron consists of twelve regular pentagonal faces. The angles between adjacent faces are equal, and three faces meet at each vertex. The Great Dodecahedron is dual to the Great Icosahedron.  The Schläfli symbol for the Great Dodecahedron is $$\{5,\ 5/2\}$$.
 
-3. The [Small Stellated Dodecahedron](https://en.wikipedia.org/wiki/Small_stellated_dodecahedron): This polyhedron has twelve regular pentagram-shaped faces. Three faces meet at each vertex, forming a corner. The Small Stellated Dodecahedron is dual to the Great Icosahedron.
+3. The [Small Stellated Dodecahedron](https://en.wikipedia.org/wiki/Small_stellated_dodecahedron): This polyhedron has twelve regular pentagram-shaped faces. Three faces meet at each vertex, forming a corner. The Small Stellated Dodecahedron is dual to the Great Icosahedron.  The Schläfli symbol for the Small Stellated Dodecahedron is $$\{5/2,\ 5\}$$.
 
-4. The [Great Stellated Dodecahedron](https://en.wikipedia.org/wiki/Great_stellated_dodecahedron): This polyhedron also has twelve regular pentagram-shaped faces. Five faces meet at each vertex. The Great Stellated Dodecahedron complements the Small Stellated Dodecahedron.
+4. The [Great Stellated Dodecahedron](https://en.wikipedia.org/wiki/Great_stellated_dodecahedron): This polyhedron also has twelve regular pentagram-shaped faces. Five faces meet at each vertex. The Great Stellated Dodecahedron complements the Small Stellated Dodecahedron.  The Schläfli symbol for the Great Stellated Dodecahedron is $$\{5/2,\ 3\}$$.
 
 These Kepler-Poinsot polyhedra are distinct as they are the only regular star polyhedra. A star polyhedron is characterized by self-intersecting or star-like extending faces. They possess symmetrical structures and exhibit captivating geometric properties.
 
