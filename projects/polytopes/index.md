@@ -38,5 +38,5 @@ This particular subsection focuses on polytopes relevant to the fields of crysta
 
 [Bravais Lattices](https://newell.github.io/projects/polytopes/bravais-lattices)
 
-[Crystal Forms](https://newell.github.io/projects/polytopes/crystal-forms)
+[Crystals and Crystal Forms](https://newell.github.io/projects/polytopes/crystal-forms)
 
