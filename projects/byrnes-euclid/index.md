@@ -10,7 +10,7 @@ I have self published a modern rendition of [Byrne's Euclid](https://www.amazon.
 [![book-4-crop](https://github.com/newell/newell.github.io/assets/4163356/4b5c8a31-4b13-4378-87fe-e49a9f3c6d7f)](https://github.com/newell/newell.github.io/assets/4163356/4b5c8a31-4b13-4378-87fe-e49a9f3c6d7f)
 
 It is my personal opinion that a book of this quality is a treasure to have in hand and your support would be appreciated.
-However, I am also supplying a [free digital copy](https://github.com/newell/newell.github.io/assets/byrnes-euclid.pdf).
+However, I am also supplying a [free digital copy](https://github.com/newell/newell.github.io/files/11928728/byrnes-euclid.pdf)
 
 The best of both worlds is having a copy of both.
 
