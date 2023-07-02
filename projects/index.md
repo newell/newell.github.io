@@ -31,7 +31,7 @@
 * [Projective](https://newell.github.io/projects/polytopes/projective)
 
 * [Bravais Lattices](https://newell.github.io/projects/polytopes/bravais-lattices)
-* [Crystal Forms](https://newell.github.io/projects/polytopes/crystal-forms)
+* [Crystals and Crystal Forms](https://newell.github.io/projects/polytopes/crystal-forms)
 
 [Book: Byrne's Euclid](https://newell.github.io/projects/byrnes-euclid)
 
