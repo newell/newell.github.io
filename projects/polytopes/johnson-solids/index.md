@@ -1,0 +1,11 @@
+# Johnson Solids
+
+A [Johnson solid](https://en.wikipedia.org/wiki/Johnson_solid) is a strictly [convex polyhedron](https://en.wikipedia.org/wiki/Convex_polyhedron) each face of which is a [regular polygon](https://en.wikipedia.org/wiki/Regular_polygon). There is no requirement that each face must be the same polygon, or that the same polygons join around each vertex. An example of a Johnson solid is the square-based [pyramid](https://en.wikipedia.org/wiki/Pyramid_(geometry)) with [equilateral](https://en.wikipedia.org/wiki/Equilateral) sides ([J1](https://en.wikipedia.org/wiki/Square_pyramid)); it has 1 square face and 4 triangular faces. Some authors require that the solid not be [uniform](https://en.wikipedia.org/wiki/Uniform_polyhedron) (i.e., not [Platonic solid](https://en.wikipedia.org/wiki/Platonic_solid), [Archimedean solid](https://en.wikipedia.org/wiki/Archimedean_solid), [uniform prism](https://en.wikipedia.org/wiki/Prism_(geometry)), or uniform [antiprism](https://en.wikipedia.org/wiki/Antiprism)) before they refer to it as a *Johnson solid*.
+
+In any strictly convex solid, each vertex is the meeting point of at least three faces, and the sum of their angles is less than 360 degrees. As regular polygons have angles of at least 60 degrees, it follows that at most five faces can meet at any vertex. The [pentagonal pyramid](https://en.wikipedia.org/wiki/Pentagonal_pyramid) (J2) illustrates a Johnson solid with a degree-5 vertex.
+
+Although there is no inherent restriction on which regular polygons can form the faces of a Johnson solid, it turns out that the non-uniform faces of Johnson solids (excluding Platonic solids, Archimedean solids, uniform prisms, and uniform antiprisms) always have 3, 4, 5, 6, 8, or 10 sides.
+
+In 1966, mathematician [Norman Johnson](https://en.wikipedia.org/wiki/Norman_Johnson_(mathematician)) published a comprehensive list that included all 92 Johnson solids, excluding the 5 Platonic solids, the 13 Archimedean solids, the infinitely many uniform prisms, and the infinitely many uniform antiprisms. He assigned names and numbers to each solid but did not formally prove that there were only 92. [Victor Zalgaller](https://en.wikipedia.org/wiki/Victor_Zalgaller) in 1969 proved that Johnson's list was complete.
+
+**TODO IMAGES**
