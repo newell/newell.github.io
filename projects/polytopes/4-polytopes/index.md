@@ -1,5 +1,18 @@
 # 4-polytopes
 
+- [4-polytopes](#4-polytopes)
+    - [Regular 4-polytopes](#regular-4-polytopes)
+        - [Regular Convex 4-polytopes](#regular-convex-4-polytopes)
+            - [5-cell](#5-cell-pentachoron-pentatope-4-simplex)
+            - [16-cell](#16-cell-hexadecachoron-4-orthoplex)
+            - [8-cell](#8-cell-octachoron-tesseract-4-cube)
+            - [24-cell](#24-cell-icositetrachoron-octaplex-polyoctahedron)
+            - [600-cell](#600-cell-hexacosichoron-tetraplex-polytetrahedron)
+            - [120-cell](#120-cell-hecatonicosachoron-dodecacontachoron-dodecaplex-polydodecahedron)
+
+----------------------------------
+
+
 A [4-polytope](https://en.wikipedia.org/wiki/4-polytope), also known as a polychoron, polycell, or polyhedroid, represents a four-dimensional [polytope](https://en.wikipedia.org/wiki/Polytope). This geometric entity is both connected and closed, comprising various lower-dimensional polytopal components, including [vertices](https://en.wikipedia.org/wiki/Vertex_(geometry)), [edges](https://en.wikipedia.org/wiki/Edge_(geometry)), [faces](https://en.wikipedia.org/wiki/Face_(geometry)) (polygons), and [cells](https://en.wikipedia.org/wiki/Cell_(mathematics)) (polyhedra). It is worth noting that each face of a 4-polytope is shared by precisely two cells. The discovery of 4-polytopes dates back to before 1853 by [Ludwig Schläfli](https://en.wikipedia.org/wiki/Ludwig_Schl%C3%A4fli), a prominent Swiss mathematician.
 
 
