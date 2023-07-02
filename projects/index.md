@@ -32,7 +32,7 @@
 * [Bravais Lattices](https://newell.github.io/projects/polytopes/bravais-lattices)
 * [Crystal Forms](https://newell.github.io/projects/polytopes/crystal-forms)
 
-[Byrne's Euclid](https://newell.github.io/projects/byrnes-euclid)
+[Book: Byrne's Euclid](https://newell.github.io/projects/byrnes-euclid)
 
 [Paintings](https://newell.github.io/projects/paintings)
 
