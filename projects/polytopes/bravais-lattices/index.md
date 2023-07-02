@@ -9,14 +9,14 @@
         - [Rhombohedral](#rhombohedral)
         - [Hexagonal](#hexagonal)
         - [Cubic](#cubic)
-    - [22 Black-White (Magnetic) Bravais Lattices](#22-black-white-(magnetic)-bravais-lattices)
-        - [Triclinic](#triclinic)
-        - [Monoclinic](#monoclinic)
-        - [Orthorhombic](#orthorhombic)
-        - [Tetragonal](#tetragonal)
-        - [Rhombohedral](#rhombohedral)
-        - [Hexagonal](#hexagonal)
-        - [Cubic](#cubic)
+    - [22 Magnetic Bravais Lattices](#22-magnetic-bravais-lattices)
+        - [Triclinic](#triclinic-magnetic)
+        - [Monoclinic](#monoclinic-magnetic)
+        - [Orthorhombic](#orthorhombic-magnetic)
+        - [Tetragonal](#tetragonal-magnetic)
+        - [Rhombohedral](#rhombohedral-magnetic)
+        - [Hexagonal](#hexagonal-magnetic)
+        - [Cubic](#cubic-magnetic)
 
 ----------------------------------
 
@@ -255,7 +255,7 @@ $$cF$$:
 [![cubic-2](https://github.com/newell/newell.github.io/assets/4163356/dacb627d-1f6c-4a05-ab54-93ae34d31d22)](https://github.com/newell/newell.github.io/assets/4163356/dacb627d-1f6c-4a05-ab54-93ae34d31d22)
 
 
-## 22 Black-White (Magnetic) Bravais Lattices
+## 22 Magnetic Bravais Lattices
 
 [![all-bravais-lattices-2](https://github.com/newell/newell.github.io/assets/4163356/1936dd85-a756-4fcc-97db-8dadf78f1297)](https://github.com/newell/newell.github.io/assets/4163356/1936dd85-a756-4fcc-97db-8dadf78f1297)
 
@@ -288,7 +288,7 @@ Here are the international symbols for each of the 22 magnetic Bravais lattices:
 
 The below images show both the white and the black-white Bravais lattices but parts will only be listed for the black-white Bravais lattices.
 
-### Triclinic
+### Triclinic (magnetic)
 
 $$aP_c$$:
 
@@ -303,7 +303,7 @@ $$aP_c$$:
 [![triclinic-mag-1](https://github.com/newell/newell.github.io/assets/4163356/cdeec7f8-6b02-42ec-8ad0-f332aba0d831)](https://github.com/newell/newell.github.io/assets/4163356/cdeec7f8-6b02-42ec-8ad0-f332aba0d831)
 
 
-### Monoclinic
+### Monoclinic (magnetic)
 
 $$mP_a$$:
 
@@ -352,7 +352,7 @@ $$mP_C$$:
 [![monoclinic-mag-4](https://github.com/newell/newell.github.io/assets/4163356/24f5a8a9-854c-4288-ae36-642b6905abc1)](https://github.com/newell/newell.github.io/assets/4163356/24f5a8a9-854c-4288-ae36-642b6905abc1)
 
 
-### Orthorhombic
+### Orthorhombic (magnetic)
 
 $$oP_a$$:
 
@@ -429,7 +429,7 @@ $$oP_I$$:
 [![orthorhombic-mag-6](https://github.com/newell/newell.github.io/assets/4163356/abe6edc0-e38f-4bb8-a0b3-c9b78558d853)](https://github.com/newell/newell.github.io/assets/4163356/abe6edc0-e38f-4bb8-a0b3-c9b78558d853)
 
 
-### Tetragonal
+### Tetragonal (magnetic)
 
 $$tP_c$$:
 
@@ -467,7 +467,7 @@ $$tP_I$$:
 [![tetragonal-mag-3](https://github.com/newell/newell.github.io/assets/4163356/8d0392b2-bfb7-4253-9da9-6007c5c9e217)](https://github.com/newell/newell.github.io/assets/4163356/8d0392b2-bfb7-4253-9da9-6007c5c9e217)
 
 
-### Rhombohedral
+### Rhombohedral (magnetic)
 
 $$hR_c$$:
 
@@ -483,7 +483,7 @@ For the last one I had to make two custom yellow struts that was half the distan
 [![rhombohedral-mag-6](https://github.com/newell/newell.github.io/assets/4163356/980a3794-1f45-427c-9f93-5b0ea4ec298c)](https://github.com/newell/newell.github.io/assets/4163356/980a3794-1f45-427c-9f93-5b0ea4ec298c)
 
 
-### Hexagonal
+### Hexagonal (magnetic)
 
 $$hP_c$$:
 
@@ -497,7 +497,7 @@ $$hP_c$$:
 [![hexagonal-mag-2](https://github.com/newell/newell.github.io/assets/4163356/b302c660-42e0-43c1-aa5c-61e66d81417b)](https://github.com/newell/newell.github.io/assets/4163356/b302c660-42e0-43c1-aa5c-61e66d81417b)
 
 
-### Cubic
+### Cubic (magnetic)
 
 $$cF_I$$:
 
