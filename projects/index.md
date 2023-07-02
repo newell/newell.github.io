@@ -29,6 +29,7 @@
 * [Johnson Solids](https://newell.github.io/projects/polytopes/johnson-solids)
 * [Kepler-Poinsot Polyhedra](https://newell.github.io/projects/polytopes/kepler-poinsot)
 * [Projective](https://newell.github.io/projects/polytopes/projective)
+* [Honeycomb Tessellations](https://newell.github.io/projects/polytopes/tessellations)
 
 * [Bravais Lattices](https://newell.github.io/projects/polytopes/bravais-lattices)
 * [Crystals and Crystal Forms](https://newell.github.io/projects/polytopes/crystal-forms)
