@@ -20,15 +20,17 @@ The Schläfli symbol's flexibility and concise representation make it an invalua
 
 [Platonic Solids](https://newell.github.io/projects/polytopes/platonic-solids)
 
-[Kepler-Poinsot Polyhedron](https://newell.github.io/projects/polytopes/kepler-poinsot)
-
-[4-polytopes](https://newell.github.io/projects/polytopes/4-polytopes)
-
 [Archimedean Solids](https://newell.github.io/projects/polytopes/archimedean-solids)
 
 [Catalan Solids](https://newell.github.io/projects/polytopes/catalan-solids)
 
 [Johnson Solids](https://newell.github.io/projects/polytopes/johnson-solids)
+
+[Kepler-Poinsot Polyhedron](https://newell.github.io/projects/polytopes/kepler-poinsot)
+
+[4-polytopes](https://newell.github.io/projects/polytopes/4-polytopes)
+
+[Projective](https://newell.github.io/projects/polytopes/projective)
 
 ## Crystallography and Mineralogy
 

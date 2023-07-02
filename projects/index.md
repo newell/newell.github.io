@@ -28,6 +28,7 @@
 * [Catalan Solids](https://newell.github.io/projects/polytopes/catalan-solids)
 * [Johnson Solids](https://newell.github.io/projects/polytopes/johnson-solids)
 * [Kepler-Poinsot Polyhedra](https://newell.github.io/projects/polytopes/kepler-poinsot)
+* [Projective](https://newell.github.io/projects/polytopes/projective)
 
 * [Bravais Lattices](https://newell.github.io/projects/polytopes/bravais-lattices)
 * [Crystal Forms](https://newell.github.io/projects/polytopes/crystal-forms)
