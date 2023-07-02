@@ -2,7 +2,7 @@
 
 Welcome!  Polytopes are beautiful mathematical and geometrical objects.  I have started a collection (still growing) of 3D printed polytopes that I have constructed at home.  There is a lot of information about polytopes online and by no means am I trying to be exhaustive here, just a brief introduction to the figures I have printed.  The readership is encouraged to dig deeper online for any nagging questions that are not answered here and to dive into the mathematics behind these wonderful objects.
 
-*TODO* add picture of entire collection here
+**TODO - Add image of overall collection of polytopes**
 
 Let us introduce some needed terminology.
 
