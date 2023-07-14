@@ -12,6 +12,6 @@ The frequency of oscillation in a Wien bridge oscillator is given by the formula
 
 $$\begin{align}f = \frac{1}{2\pi RC}\end{align}$$
 
-where $$R$$ and $$C$$ are the values of the resistors and capacitors in the bridge network. By adjusting these values, the oscillation frequency can be tuned.
+where $`R`$ and $$C$$ are the values of the resistors and capacitors in the bridge network. By adjusting these values, the oscillation frequency can be tuned.
 
 Wien bridge oscillators find applications in various areas such as audio signal generation, frequency synthesis, and test equipment. They provide a simple and reliable means of generating sinusoidal waveforms with good frequency accuracy and low distortion.
