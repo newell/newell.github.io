@@ -20,7 +20,7 @@ Most of my projects are oscillators.
   - Schmitt Trigger Oscillator
 
 - **Voltage-Controlled Oscillators (VCOs):**
-  - [LM358 VCO](https://newell.github.io/projects/electronics/lm358-vco)
+  - [Triangle Wave VCO](https://newell.github.io/projects/electronics/triangle-wave-vco)
   - [Precision VCO](https://newell.github.io/projects/electronics/precision-vco)
   - Quadrature VCO
 
