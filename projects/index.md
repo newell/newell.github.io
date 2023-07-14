@@ -1,16 +1,16 @@
 # Projects
 
-[**Electronics**](https://newell.github.io/projects/electronics)
+[Electronics](https://newell.github.io/projects/electronics)
 
-[**Polytopes**](https://newell.github.io/projects/polytopes)
+[Polytopes](https://newell.github.io/projects/polytopes)
 
-[**Book: Byrne's Euclid**](https://newell.github.io/projects/byrnes-euclid)
+[Book: Byrne's Euclid](https://newell.github.io/projects/byrnes-euclid)
 
-[**Paintings**](https://newell.github.io/projects/paintings)
+[Paintings](https://newell.github.io/projects/paintings)
 
-[**Textbook Math Solutions**](https://newell.github.io/projects/math)
+[Textbook Math Solutions](https://newell.github.io/projects/math)
 
-[**Mersenne Primes**](https://newell.github.io/projects/mersenne_primes)
+[Mersenne Primes](https://newell.github.io/projects/mersenne_primes)
 
 ## Past Projects
 
