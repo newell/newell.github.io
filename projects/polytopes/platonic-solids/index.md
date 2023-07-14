@@ -6,27 +6,27 @@ The distinguished class of Platonic solids comprises only five unique polyhedra,
 
 1. Tetrahedron:
    - Description: This solid is composed of four equilateral triangles as faces, and three triangles meet at each vertex.
-   - Schläfli symbol: {3, 3}
+   - Schläfli symbol: $${3, 3}$$
    - Dual: Octahedron
 
 2. Cube:
    - Description: Also known as a hexahedron, it consists of six identical square faces, with three meeting at each vertex.
-   - Schläfli symbol: {4, 3}
+   - Schläfli symbol: $${4, 3}$$
    - Dual: Octahedron
 
 3. Octahedron:
    - Description: With eight equilateral triangular faces, it has four triangles converging at each vertex.
-   - Schläfli symbol: {3, 4}
+   - Schläfli symbol: $${3, 4}$$
    - Dual: Cube
 
 4. Dodecahedron:
    - Description: This polyhedron has twelve regular pentagonal faces, and three pentagons meet at each vertex.
-   - Schläfli symbol: {5, 3}
+   - Schläfli symbol: $${5, 3}$$
    - Dual: Icosahedron
 
 5. Icosahedron:
    - Description: Comprising twenty equilateral triangles, it has five triangles meeting at each vertex.
-   - Schläfli symbol: {3, 5}
+   - Schläfli symbol: $${3, 5}$$
    - Dual: Dodecahedron
 
 Geometers have studied the Platonic solids for thousands of years. They are named for the ancient Greek philosopher [Plato](https://en.wikipedia.org/wiki/Plato) who hypothesized in one of his dialogues, the [*Timaeus*](https://en.wikipedia.org/wiki/Timaeus_(dialogue)), that the [classical elements](https://en.wikipedia.org/wiki/Classical_element) were made of these regular solids.
