@@ -16,24 +16,24 @@ Most of my projects are oscillators.
   - [Pierce Oscillator](https://newell.github.io/projects/electronics/pierce)
 
 - **Relaxation Oscillators:**
-  - Astable Multivibrator
-  - Schmitt Trigger Oscillator
+  - [Astable Multivibrator](https://newell.github.io/projects/electronics/astable)
+  - [Schmitt Trigger Oscillator](https://newell.github.io/projects/electronics/schmitt-trigger)
 
 - **Voltage-Controlled Oscillators (VCOs):**
   - [Triangle Wave VCO](https://newell.github.io/projects/electronics/triangle-wave-vco)
   - [Precision VCO](https://newell.github.io/projects/electronics/precision-vco)
-  - Quadrature VCO
+  - [Quadrature VCO](https://newell.github.io/projects/electronics/quadrature-vco)
 
 - **Phase-Locked Loop (PLL):**
-  - PLL Oscillator
+  - [PLL Oscillator](https://newell.github.io/projects/electronics/pll)
 
 - **Specialized Oscillators:**
-  - Ring Oscillator
-  - Gunn Oscillator
+  - [Ring Oscillator](https://newell.github.io/projects/electronics/ring)
+
 
 - **Microwave Oscillators:**
-  - Gunn Oscillator
-  - YIG Oscillator
+  - [Gunn Oscillator](https://newell.github.io/projects/electronics/gunn)
+  - [YIG Oscillator](https://newell.github.io/projects/electronics/yig)
   - IMPATT Oscillator
   - Gunnplexer Oscillator
   - Dielectric Resonator Oscillator (DRO)
