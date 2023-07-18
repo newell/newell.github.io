@@ -3,17 +3,17 @@
 Most of my projects are oscillators. 
 
 - **LC Oscillators:**
-  - Hartley Oscillator
-  - Colpitts Oscillator
-  - Clapp Oscillator
+  - [Hartley Oscillator](https://newell.github.io/projects/electronics/hartley)
+  - [Colpitts Oscillator](https://newell.github.io/projects/electronics/colpitts)
+  - [Clapp Oscillator](https://newell.github.io/projects/electronics/clapp)
   - Armstrong Oscillator
 
 - **RC Oscillators:**
   - [Wien Bridge Oscillator](https://newell.github.io/projects/electronics/wien-bridge)
-  - Phase-Shift Oscillator
+  - [Phase-Shift Oscillator](https://newell.github.io/projects/electronics/phase-shift)
 
 - **Crystal Oscillators:**
-  - Pierce Oscillator
+  - [Pierce Oscillator](https://newell.github.io/projects/electronics/pierce)
 
 - **Relaxation Oscillators:**
   - Astable Multivibrator
