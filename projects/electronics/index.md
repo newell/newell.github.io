@@ -34,10 +34,9 @@ Most of my projects are oscillators.
 - **Microwave Oscillators:**
   - [Gunn Oscillator](https://newell.github.io/projects/electronics/gunn)
   - [YIG Oscillator](https://newell.github.io/projects/electronics/yig)
-  - IMPATT Oscillator
-  - Gunnplexer Oscillator
-  - Dielectric Resonator Oscillator (DRO)
-  - Voltage-Controlled Dielectric Resonator Oscillator (VC-DRO)
+  - [IMPATT Oscillator](https://newell.github.io/projects/electronics/impatt)
+  - [Gunnplexer Oscillator](https://newell.github.io/projects/electronics/gunnplexer)
+  - [Dielectric Resonator Oscillator (DRO)](https://newell.github.io/projects/electronics/dro)
 
 - **Laser Oscillators:**
   - Fabry-Perot Laser Oscillator
