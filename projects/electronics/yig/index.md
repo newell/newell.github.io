@@ -1,7 +1,7 @@
 
 # YIG Oscillator
 
-A YIG (Yttrium Iron Garnet) oscillator is a type of electronic oscillator circuit used to generate stable microwave signals. It utilizes a YIG sphere or film, made of the ferrimagnetic material yttrium iron garnet, as its core component. YIG oscillators are widely used in microwave communication systems, radar systems, and test equipment.
+A [YIG (Yttrium Iron Garnet) oscillator](https://en.wikipedia.org/wiki/YIG_sphere) is a type of electronic oscillator circuit used to generate stable microwave signals. It utilizes a YIG sphere or film, made of the ferrimagnetic material yttrium iron garnet, as its core component. YIG oscillators are widely used in microwave communication systems, radar systems, and test equipment.
 
 The YIG oscillator operates based on the unique properties of the YIG material, including its tunability and high-quality factor (Q-factor). Here's a general description of the YIG oscillator's operation:
 
