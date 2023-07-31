@@ -28,7 +28,7 @@ In order to search for these large primes, obviously you need to be running algo
 ## Software
 ```
 * Ubuntu 20.04.1 LTS Server
-* [gpuowl](https://github.com/preda/gpuowl)
+* gpuowl - https://github.com/preda/gpuowl
 ```
 
 [![mersenne-0](https://github.com/newell/newell.github.io/assets/4163356/ff6bc2b6-c00d-49e4-b770-8cd7b5ab289e)](https://github.com/newell/newell.github.io/assets/4163356/ff6bc2b6-c00d-49e4-b770-8cd7b5ab289e)
