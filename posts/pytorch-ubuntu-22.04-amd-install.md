@@ -66,6 +66,18 @@ Now, test that Pytorch was installed correctly by opening a python terminal:
     torch.cuda.is_available()
     torch.cuda.get_device_name(torch.cuda.current_device())
 ```
-which should display the name of your GPU.  Also, don't worry about the name `cuda` above as apparently this now applies to both NVIDIA and AMD GPUs.
+which should display the name of your GPU.  For my setup of four GPUs this gives:
+
+```python
+    >>> import torch
+    >>> torch.cuda.is_available()
+    True    
+    >>> torch.cuda.get_device_name(torch.cuda.current_device())
+    'AMD Radeon VII'
+    >>> [torch.cuda.device(i) for i in range(torch.cuda.device_count())]
+    [<torch.cuda.device object at 0x7fa45b8a26b0>, <torch.cuda.device object at 0x7fa45b8ffcd0>, <torch.cuda.device object at 0x7fa45b5247c0>, <torch.cuda.device object at 0x7fa45b524760>]
+```
+
+Also, don't worry about the name `cuda` above that pytorch uses as apparently this now applies to both NVIDIA and AMD GPUs.
 
 This wraps up this quick blog post and hope that it was of some benefit to you.
