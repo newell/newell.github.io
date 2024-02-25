@@ -1,53 +1,26 @@
-# Math Solutions
+# Math
 
-The PDFs here are from self-study through several textbooks a few years ago.
-I only completed as much as I had motivation for but I am posting them here in the event that they can be of some help to someone. 
+I love logic, mathematics, and computation.  More so than I can convey in words.
 
-There are bound to be errors, in proofs or other items. Please let me know if you find any errors at `newell dot jensen at gmail dot com`.
+I love starting from a set of axioms and, using the rules of logic, deducing all that follows.
 
-## Classical Mathematical Logic, Epstein
+I love the art of reasoning well. Connecting truths to more truth.
 
-[Chapter1](classical_mathematical_logic_epstein/classical_mathematical_logic_chapter1.pdf)
 
-## Abstract Algebra, 3rd Edition. Dummit and Foote
+## Formalizing Math
 
-This is a classic textbook for Abstract Algebra and with close to 2000 exercises...it's a behemoth.
+A new passion of mine is formalizing mathematics with the functional programming language [Lean 4](https://leanprover-community.github.io/) ([github](https://github.com/leanprover/lean4)).
 
-[Preliminaries](abstract_algebra_dummit_foote/abstract_algebra_dummit_foote_preliminaries.pdf)
+I am a contributor to [Mathlib](https://leanprover-community.github.io/mathlib-overview.html) ([github](https://github.com/leanprover-community/mathlib4)).
 
-[Chapter1](abstract_algebra_dummit_foote/abstract_algebra_dummit_foote_chapter1.pdf)
+Here are some links to blog posts about some of the larger pull requests I have contributed:
 
-[Chapter2](abstract_algebra_dummit_foote/abstract_algebra_dummit_foote_chapter2.pdf)
+* [Coxeter Groups](https://newell.github.io/posts/mathlib4-coxeter-groups)
 
-[Chapter3](abstract_algebra_dummit_foote/abstract_algebra_dummit_foote_chapter3.pdf)
+* [Klein-Four Group](https://newell.github.io/posts/mathlib4-klein-four)
 
-## Introduction to Analytic Number Theory, Apostol
 
-[Chapter1](introduction_to_analytic_number_theory_apostol/introduction_to_analytic_number_theory_apostol_chapter1.pdf)
+## Math Solutions
 
-## Topology of Number, Hatcher
-
-[Chapter0](topology_of_numbers_hatcher/topology_of_numbers_chapter0.pdf)
-
-## Real Analysis, 3rd Edition. Walter Rudin (aka "Baby Rudin")
-
-Another classic and the first in the famous triology of Baby Rudin, Papa Rudin, and Grandpa Rudin.
-
-[Chapter1](baby_rudin_3ed/baby_rudin_3ed_chapter1.pdf)
-
-## Analysis I, 3rd Edition. Tao
-
-Terrence Tao's first analysis book from a two part series
-
-[Chapter2](analysis_1_tao/analysis_1_tao_chapter2.pdf)
-
-[Chapter3](analysis_1_tao/analysis_1_tao_chapter3.pdf)
-
-[Chapter4](analysis_1_tao/analysis_1_tao_chapter4.pdf)
-
-[Chapter5](analysis_1_tao/analysis_1_tao_chapter5.pdf)
-
-### Appendix
-
-[ChapterA](analysis_1_tao/analysis_1_tao_chapterA.pdf)
+[Textbook Solutions](https://newell.github.io/projects/math/solutions)
 
