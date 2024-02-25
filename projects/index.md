@@ -1,14 +1,14 @@
 # Projects
 
-[Electronics](https://newell.github.io/projects/electronics)
+[Mathematics](https://newell.github.io/projects/math)
 
 [Polytopes](https://newell.github.io/projects/polytopes)
+
+[Electronics](https://newell.github.io/projects/electronics)
 
 [Book: Byrne's Euclid](https://newell.github.io/projects/byrnes-euclid)
 
 [Paintings](https://newell.github.io/projects/paintings)
-
-[Textbook Math Solutions](https://newell.github.io/projects/math)
 
 [Mersenne Primes](https://newell.github.io/projects/mersenne_primes)
 
