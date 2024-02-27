@@ -2,6 +2,8 @@
 
 ## Current Reading List [with current position]:
 
+* International Tables for Crystallography (2016). Vol. A [Section 1.6]
+  
 * Michael Baake, Uwe Grimm. (2013). *Aperiodic Order. Volume 1: A Mathematical Invitation*. Cambridge University Press [Chapter 4]
 
 * Leon Brillouin. (1946). *Wave Propagation in Periodic Structures - Electric Filters and Crystal Lattices*. McGraw-Hill Book Company, Inc. [Chapter 4]
