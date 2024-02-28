@@ -8,7 +8,7 @@
 
 * Leon Brillouin. (1946). *Wave Propagation in Periodic Structures - Electric Filters and Crystal Lattices*. McGraw-Hill Book Company, Inc. [Chapter 4]
 
-* John Singleton. (2001). *Band Theory and Electronic Properties of Solids*. Oxford University Press [Chapter 2]
+* John Singleton. (2001). *Band Theory and Electronic Properties of Solids*. Oxford University Press [Chapter 3]
 
 * Charles K. Poole, Horacio A. Farach, Richard J. Creswick. (2000). *Hanbook of Superconductivity*. Academic Press [Chapter 4]
 
