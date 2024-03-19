@@ -4,7 +4,7 @@
 
 [Polytopes](https://newell.github.io/projects/polytopes)
 
-[Electronics](https://newell.github.io/projects/electronics)
+<!-- [Electronics](https://newell.github.io/projects/electronics) -->
 
 [Book: Byrne's Euclid](https://newell.github.io/projects/byrnes-euclid)
 
