@@ -1,6 +1,8 @@
 # Electronics
 
-Most of my projects are oscillators. 
+TODO
+
+<!-- Most of my projects are oscillators. 
 
 - **LC Oscillators:**
   - [Hartley Oscillator](https://newell.github.io/projects/electronics/hartley)
@@ -56,3 +58,4 @@ Most of my projects are oscillators.
   - Parametric Array Oscillator
   - Traveling-Wave Tube (TWT) Oscillator
   - Magnetron Oscillator
+  -->
