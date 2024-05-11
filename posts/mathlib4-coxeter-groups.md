@@ -5,4 +5,4 @@ I have a soft spot in my heart for [Coxeter groups](https://en.wikipedia.org/wik
 
 This project was a lot harder than anything I had done up to this point as there were multiple PRs that needed to be merged to mathlib so that I could use the results in my branch.  Additionally, discovering the correct definitions took some time and much effort. I would like to thank all the reviewers and Zulip users who helped me with all the questions I had.
 
-Instead of listing the source code here, as it might get outdated with changes, the most current and up to date code in the mathlib repository can be found [here](https://github.com/leanprover-community/mathlib4/blob/master/Mathlib/GroupTheory/SpecificGroups/Coxeter.lean).
+Instead of listing the source code here, as it might get outdated with changes, the most current and up to date code in the mathlib repository can be found [here](https://github.com/leanprover-community/mathlib4/tree/master/Mathlib/GroupTheory/Coxeter).
