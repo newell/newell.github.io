@@ -2,7 +2,7 @@
 
 ## Current Reading List [with current position]:
 
-Note: I honestly jump from book to book and there are many books that I have not listed below but should.  This is my lame attempt at trying to track books that I *think* I would like to finish at some point but a lot of times as I progress I realize that another source is better suited to fill my curiousity, especially with research.
+Note: This is mostly for myself to keep track of where I left off while reading differnet books, and which I hardly update.  I honestly jump from book to book and there are many books that I have not listed below but should.  This is my lame attempt at trying to track books that I *think* I would like to finish at some point but a lot of times as I progress I realize that another source is better suited to fill my curiousity, especially with research.
 
 * International Tables for Crystallography (2016). Vol. A [Section 1.6]
   
