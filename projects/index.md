@@ -1,3 +1,5 @@
+[![600-cell-3](https://github.com/newell/newell.github.io/assets/4163356/0d98c62c-73c1-44f7-9498-efa0d3f5ac55)](https://github.com/newell/newell.github.io/assets/4163356/0d98c62c-73c1-44f7-9498-efa0d3f5ac55)
+
 # Projects
 
 [Mathematics](https://newell.github.io/projects/math)
