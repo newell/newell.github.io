@@ -1,5 +1,3 @@
-[![4-polytopes-4-cropped](https://github.com/newell/newell.github.io/assets/4163356/f1e6072e-9af3-455e-8cc2-a907b041bd7b)](https://github.com/newell/newell.github.io/assets/4163356/f1e6072e-9af3-455e-8cc2-a907b041bd7b)
-
 # Projects
 
 [Mathematics](https://newell.github.io/projects/math)
