@@ -1,12 +1,5 @@
 # Math
 
-I love logic, mathematics, and computation.  More so than I can convey in words.
-
-I love starting from a set of axioms and, using the rules of logic, deducing all that follows.
-
-I love the art of reasoning well. Connecting truths to more truth.
-
-
 ## Formalizing Math
 
 A new passion of mine is formalizing mathematics with the functional programming language [Lean 4](https://leanprover-community.github.io/) [[github](https://github.com/leanprover/lean4)].
