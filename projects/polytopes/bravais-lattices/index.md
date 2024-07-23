@@ -75,7 +75,6 @@ Here are the international symbols for each of the 14 Bravais lattices:
 2. Monoclinic:
    - Primitive: $$mP$$
    - Base-centered: $$mC$$
-   - Face-centered: $$mF$$
 3. Orthorhombic:
    - Primitive: $$oP$$
    - Base-centered: $$oC$$
@@ -84,15 +83,13 @@ Here are the international symbols for each of the 14 Bravais lattices:
 4. Tetragonal:
    - Primitive: $$tP$$
    - Body-centered: $$tI$$
-5. Rhombohedral/Trigonal:
+5/6. Trigonal/Hexagonal:
    - Primitive: $$hP$$
-   - Hexagonal: $$hR$$
-6. Hexagonal: $$hP$$
+   - Rhombohedral: $$R$$
 7. Cubic:
    - Primitive: $$cP$$
    - Body-centered: $$cI$$
    - Face-centered: $$cF$$
-   - Base-centered: $$cC$$
 
 These symbols are used to represent the different crystal systems and their corresponding Bravais lattices.
 
