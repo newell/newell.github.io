@@ -83,9 +83,10 @@ Here are the international symbols for each of the 14 Bravais lattices:
 4. Tetragonal:
    - Primitive: $$tP$$
    - Body-centered: $$tI$$
-5/6. Trigonal/Hexagonal:
+5. Trigonal:
+    - Rhombohedral: $$R$$ 
+6. Hexagonal:
    - Primitive: $$hP$$
-   - Rhombohedral: $$R$$
 7. Cubic:
    - Primitive: $$cP$$
    - Body-centered: $$cI$$
