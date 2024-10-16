@@ -2,6 +2,10 @@
 
 # Projects
 
+[Nixie Clock ESP32-C3](https://github.com/newell/nixie-clock-esp32c3)
+
+[High Voltage Flyback Converter](https://github.com/newell/hv-flyback-converter)
+
 [Mathematics](https://newell.github.io/projects/math)
 
 [Polytopes](https://newell.github.io/projects/polytopes)
