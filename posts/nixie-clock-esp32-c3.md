@@ -38,8 +38,6 @@ The clock features a web-based interface accessible via [esp-home.local](http://
 - **WebSockets**: Real-time control of the clock settings
 - **Customizable UI**: Set time, timezone, and visual preferences like LED colors directly from your browser
 
-![Web Interface](https://github.com/user-attachments/assets/71b5c2da-ff7b-42fa-be0a-e68aa2519f6b)
-
 ## How to Get Involved
 
 If you're interested in building a nixie tube clock of your own, all the resources are available in the [GitHub repository](https://github.com/newell/nixie-clock-esp32c3). The project is open-source and comes with detailed documentation on hardware design, firmware, and 3D models.
