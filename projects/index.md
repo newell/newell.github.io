@@ -2,6 +2,8 @@
 
 # Projects
 
+[EBAZ4205 - AD9834 DDS Module](https://newell.github.io/projects/ebaz4205)
+
 [Nixie Clock ESP32-C3](https://github.com/newell/nixie-clock-esp32c3)
 
 [High Voltage Flyback Converter](https://github.com/newell/hv-flyback-converter)
