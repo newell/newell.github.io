@@ -2,7 +2,7 @@
 
 I've recently completed a fun and challenging project: a fully functional nixie tube clock powered by an ESP32-C3 microcontroller. This clock combines retro aesthetics with modern technology, featuring six IN-12A Nixie tubes, a 3D-printed case, and various smart features, including WiFi provisioning, a web-based control interface, and motion sensing for sleep mode.
 
-This blog post offers a brief overview of the project. For those looking to dive into the code and detailed build process, you can check out the full repository on GitHub. The clock is open-source and licensed under both the MIT and CERN Open Hardware licenses. You’ll find everything from CAD models to the ESP32 firmware there.
+This blog post offers a brief overview of the project. For those looking to dive into the code and detailed build process, you can check out the [full repository on GitHub](https://github.com/newell/nixie-clock-esp32c3). The clock is open-source and licensed under both the MIT and CERN Open Hardware licenses. You’ll find everything from CAD models to the ESP32 firmware there.
 
 ## Project Overview
 
