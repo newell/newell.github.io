@@ -1,4 +1,4 @@
-# Controlling the AD9834 DDS with the EBAZ4205 Zynq-SoC Board using ARTIQ
+# Controlling the AD9834 DDS with the Zynq-SoC EBAZ4205 using ARTIQ
 
 In this post, I’ll walk you through my project where I used the EBAZ4205 Zynq-SoC board to control an AD9834 DDS module by ZonRi Technology Co., Ltd. The AD9834 is a low-power DDS chip capable of generating sine, triangular, and square waves, and by leveraging ARTIQ, we can precisely control it. ARTIQ (Advanced Real-Time Infrastructure for Quantum physics) is a leading-edge control and data acquisition system for quantum information experiments.
 
