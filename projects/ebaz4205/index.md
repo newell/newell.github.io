@@ -81,5 +81,5 @@ NOTE: Both VIN and GND Pins of the AD9834 Module are tied together.
 
 ## Conclusion
 
-By integrating the EBAZ4205 Zynq-SoC board with the AD9834 module through ARTIQ, I’ve been able to generate precise waveforms and experiment with phase modulation. While this post mainly focuses on phase modulation, the AD9834 also supports frequency modulation (FM), which adds even more versatility to this setup. The combination of the low-cost Zynq board and the flexibility of ARTIQ provides a powerful platform for waveform generation and signal processing.
+By integrating the EBAZ4205 Zynq-SoC board with the AD9834 module through ARTIQ, I’ve been able to generate precise waveforms and experiment with phase modulation. The combination of the low-cost Zynq board and the flexibility of ARTIQ provides a powerful platform for waveform generation and signal processing.
 
