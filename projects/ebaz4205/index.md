@@ -1,6 +1,6 @@
 # Controlling the AD9834 DDS with the EBAZ4205 Zynq-SoC Board using ARTIQ
 
-In this post, I’ll walk you through my project where I used the EBAZ4205 Zynq-SoC board to control an AD9834 DDS module by ZonRi Technology Co., Ltd. The AD9834 is a low-power DDS chip capable of generating sine, triangular, and square waves, and by leveraging ARTIQ, we can precisely control it.
+In this post, I’ll walk you through my project where I used the EBAZ4205 Zynq-SoC board to control an AD9834 DDS module by ZonRi Technology Co., Ltd. The AD9834 is a low-power DDS chip capable of generating sine, triangular, and square waves, and by leveraging ARTIQ, we can precisely control it. ARTIQ (Advanced Real-Time Infrastructure for Quantum physics) is a leading-edge control and data acquisition system for quantum information experiments.
 
 I’ve contributed to the [ARTIQ](https://github.com/m-labs/artiq) and [ARTIQ-Zynq](https://git.m-labs.hk/M-Labs/artiq-zynq) repositories by adding support for the EBAZ4205 Zynq-SoC board. This board is a low-cost option that can be repurposed to work with ARTIQ, opening up a lot of possibilities for high-precision waveform generation.
 
@@ -48,20 +48,26 @@ Frequency and Phase modulation allows you to change the frequency and phase of a
 
 ## AD9834 Module Pinout and Connections
 
+The EBAZ4205 is being powered from 12V coming from my power supply, with GND and VCC connected to pin DATA1-1 and DATA1-3 pins, respectively.
+
 Here’s a photo of the bottom of the AD9834 module, showing the header pinout for easy reference:
 
 [![BottomOfBoard](https://github.com/user-attachments/assets/c4724b66-1a81-43e4-95e1-4b1b6dbaf2ea)](https://github.com/user-attachments/assets/c4724b66-1a81-43e4-95e1-4b1b6dbaf2ea)
 
 Below is a table that outlines how I connected the AD9834 module to the EBAZ4205 Zynq-SoC board:
 
-| **Pin on AD9834 Module** | **Function**        | **Connection on Zynq Board**   |
+| **Pin on AD9834 Module** | **Chip Function**   | **Connection on EBAZ4205**     |
 |--------------------------|---------------------|--------------------------------|
-| Pin 1                    | FSYNC               | GPIO X.X (Specify pin)         |
-| Pin 2                    | SCLK                | GPIO X.X (Specify pin)         |
-| Pin 3                    | SDATA               | GPIO X.X (Specify pin)         |
-| Pin 4                    | Ground              | GND                           |
-| Pin 5                    | VCC                 | 3.3V                          |
-| Pin 6                    | IOUT                | Analog output                  |
+| SCLK                     | SCLK                | CLK: DATA3-19 (Pin V20)        |
+| DATA                     | SDATA               | MOSI: DATA3-17 (Pin U20)       |
+| SYNC                     | FSYNC               | CS_N: DATA3-15 (Pin P19)       |
+| FSE (Tied to GND)        | FSELECT             | N/A: Bit Controlled            |
+| PSE (Tied to GND)        | PSELECT             | N/A: Bit Controlled            |
+| GND                      | Ground              | GND: J8-1, J8-3                |
+| VIN                      | AVDD/DVDD           | 3.3V: J8-2                     |
+| RESET (Unused)           | RESET               | N/A: Bit Controlled            |
+
+NOTE: Both VIN and GND Pins of the AD9834 Module are tied together.
 
 [![DSC03048](https://github.com/user-attachments/assets/7a002b01-3c96-41d3-b9a4-e25563e07b14)](https://github.com/user-attachments/assets/7a002b01-3c96-41d3-b9a4-e25563e07b14)
 
