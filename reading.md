@@ -14,7 +14,7 @@ Note: This is mostly for myself to keep track of where I left off while reading 
 
 * Charles K. Poole, Horacio A. Farach, Richard J. Creswick. (2000). *Hanbook of Superconductivity*. Academic Press [Chapter 4]
 
-* Ctirad Uher. (2021). *Superconductivity and Magneeism in Skutterudites*. CRC Press. [Chapter 2]
+* Ctirad Uher. (2021). *Superconductivity and Magnetism in Skutterudites*. CRC Press. [Chapter 2]
 
 
 ## Completed Books
