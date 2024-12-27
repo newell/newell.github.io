@@ -52,7 +52,7 @@ Frequency and Phase modulation allows you to change the frequency and phase of a
 
 ## AD9834 Module Pinout and Connections
 
-The EBAZ4205 is being powered from 12V coming from my power supply, with GND and VCC connected to pin DATA1-1 and DATA1-3 pins, respectively.
+The EBAZ4205 is being powered from 12V, with GND and VCC of the power supply connected to pins DATA1-1 and DATA1-3 of the EBAZ4205, respectively.
 
 Here’s a photo of the bottom of the AD9834 module, showing the header pinout for easy reference:
 
