@@ -18,7 +18,9 @@ For more details on how to use ARTIQ to create your own waveforms with this boar
 
 `$ cd zynq-rs`
 
-`$ nix develop` (to setup `nix` see [ARTIQ manual - nix development environment](https://m-labs.hk/artiq/manual/building_developing.html#nix-development-environment))
+`$ nix develop` 
+
+If you don't have `nix` see [ARTIQ manual - nix development environment](https://m-labs.hk/artiq/manual/building_developing.html#nix-development-environment).
 
 `$ cargo xbuild --release -p szl --no-default-features --features=target_ebaz4205`
 
