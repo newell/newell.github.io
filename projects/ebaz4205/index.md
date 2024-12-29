@@ -10,17 +10,112 @@ I also added the core device driver for the AD9834 to ARTIQ, which allows for se
 
 For more details on how to use ARTIQ to create your own waveforms with this board, refer to the [ARTIQ manual](https://m-labs.hk/artiq/manual-beta/).
 
-## Setup on My Electronics Bench
+## Quick Build Guide
+
+### Build SZL Bootloader
+
+`$ git clone https://git.m-labs.hk/M-Labs/zynq-rs` 
+
+`$ cd zynq-rs`
+
+`$ nix develop` (to setup `nix` see [ARTIQ manual - nix development environment](https://m-labs.hk/artiq/manual/building_developing.html#nix-development-environment))
+
+`$ cargo xbuild --release -p szl --no-default-features --features=target_ebaz4205`
+
+This will create a `target` directoy and `szl` file will be located at `./target/armv7-none-eabihf/release/szl`
+
+### Build Gateware and Firmware
+
+Open a separate terminal from the one above and:
+
+`$ git clone https://git.m-labs.hk/M-Labs/artiq-zynq`
+
+`$ cd artiq-zynq`
+
+`$ nix develop`
+
+`$ cd src`
+
+Build gateware:
+
+`$ python3 ./gateware/ebaz4205.py -g ../build/gateware`
+
+This will create `../build/gateware/top.bit`
+
+Build firmware:
+
+`$ make TARGET="ebaz4205" GWARGS="" runtime`
+
+This will create `../build/firmware/armv7-none-eabihf/release/runtime`
+
+### Build BOOT.BIn
+
+Now that you have the bootloader, gateware, and firmware built, you can create your `BOOT.BIN` file as mentioned in the `README.md` of:
+
+https://git.m-labs.hk/M-Labs/artiq-zynq
+
+e.g.
+
+```
+echo "the_ROM_image:
+    {
+        [bootloader]result/szl.elf
+        gateware/top.bit
+        firmware/armv7-none-eabihf/release/<runtime/satman>
+    }
+    EOF" >> boot.bif
+mkbootimage boot.bif boot.bin
+```
+
+Note that if `[bootloader]result/szl.elf` causes issues, you can use the `szl` file mentioned above (just make sure the names and paths match in the `boot.bif` file).
+
+
+## EBAZ4205 Booting from SD Card
+
+Now that `BOOT.BIN` or `boot.bin` is built from the section above, save it to the SD card you are using with your EBAZ4205 and go ahead and power on the board and open a serial console of your choice (I use [`tio`](https://github.com/tio/tio))  to watch the boot process:
+
+`$ tio --map ICRNL,INLCRNL /dev/ttyUSB1` 
+
+replace `/dev/ttyUSB1` with what your system gives you. 
+
+The UART pins on the EBAZ4205 are located on pin header `J7`.
+
+Here’s a screenshot of the console output when the EBAZ4205 boots up its firmware from the SD card. This demonstrates the successful initialization of the board and loading of the ARTIQ framework:
+
+[![BootUp](https://github.com/user-attachments/assets/fa79df3e-303f-4b0e-babc-837fd266dabc)](https://github.com/user-attachments/assets/fa79df3e-303f-4b0e-babc-837fd266dabc)
+
+## AD9834 Module Pinout and Connections
 
 Here's a photo of my setup on the electronics bench. You’ll see the EBAZ4205 Zynq-SoC board connected to the AD9834 module and the power supplies I used to drive them.
 
 [![DSC03050](https://github.com/user-attachments/assets/731a3ca4-46eb-4a72-a98b-ae641e66b203)](https://github.com/user-attachments/assets/731a3ca4-46eb-4a72-a98b-ae641e66b203)
 
-## EBAZ4205 Booting from SD Card
+The EBAZ4205 is powered from 5V - 12V, with GND and VCC of the power supply connected to pins DATA1-1 and DATA1-3 of the EBAZ4205, respectively.
 
-Here’s a screenshot of the console output when the EBAZ4205 boots up its firmware from the SD card. This demonstrates the successful initialization of the board and loading of the ARTIQ framework:
+Here’s a photo of the bottom of the AD9834 module, showing the header pinout for easy reference:
 
-[![BootUp](https://github.com/user-attachments/assets/fa79df3e-303f-4b0e-babc-837fd266dabc)](https://github.com/user-attachments/assets/fa79df3e-303f-4b0e-babc-837fd266dabc)
+[![BottomOfBoard](https://github.com/user-attachments/assets/c4724b66-1a81-43e4-95e1-4b1b6dbaf2ea)](https://github.com/user-attachments/assets/c4724b66-1a81-43e4-95e1-4b1b6dbaf2ea)
+
+Below is a table that outlines how I connected the AD9834 module to the EBAZ4205 Zynq-SoC board:
+
+| **Pin on AD9834 Module** | **AD9834 DATASHEET**| **Connection on EBAZ4205**     |
+|--------------------------|---------------------|--------------------------------|
+| SCLK                     | SCLK                | CLK: DATA3-19 (Pin V20)        |
+| DATA                     | SDATA               | MOSI: DATA3-17 (Pin U20)       |
+| SYNC                     | FSYNC               | CS_N: DATA3-15 (Pin P19)       |
+| FSE (Tied to GND)        | FSELECT             | N/A: Bit Controlled            |
+| PSE (Tied to GND)        | PSELECT             | N/A: Bit Controlled            |
+| GND                      | Ground              | GND: J8-1, J8-3                |
+| VIN                      | AVDD/DVDD           | 3.3V: J8-2                     |
+| RESET (Unused)           | RESET               | N/A: Bit Controlled            |
+
+NOTE: Both VIN Pins and both GND Pins of the AD9834 Module are tied together.
+
+[![DSC03048](https://github.com/user-attachments/assets/7a002b01-3c96-41d3-b9a4-e25563e07b14)](https://github.com/user-attachments/assets/7a002b01-3c96-41d3-b9a4-e25563e07b14)
+
+[![DSC03049](https://github.com/user-attachments/assets/98e24dab-bcec-4c63-b437-835fa0fcd75c)](https://github.com/user-attachments/assets/98e24dab-bcec-4c63-b437-835fa0fcd75c)
+
+[![DSC03053](https://github.com/user-attachments/assets/dfe61ac3-742d-4398-aecf-7c9b6ac7c437)](https://github.com/user-attachments/assets/dfe61ac3-742d-4398-aecf-7c9b6ac7c437)
 
 ## Waveforms Generated by the AD9834
 
@@ -49,35 +144,6 @@ The square wave output shows how the AD9834 can handle different waveform output
 Frequency and Phase modulation allows you to change the frequency and phase of a signal relative to another. Below is an example of phase modulation where I switch between quadrature waves (90 degrees phase difference) of the same frequency, switching at a rate of 10 µs:
 
 [![SDS1202X-E1](https://github.com/user-attachments/assets/0f5f61bd-4b4f-4620-9fb1-222c1978b1f8)](https://github.com/user-attachments/assets/0f5f61bd-4b4f-4620-9fb1-222c1978b1f8)
-
-## AD9834 Module Pinout and Connections
-
-The EBAZ4205 is being powered from 12V, with GND and VCC of the power supply connected to pins DATA1-1 and DATA1-3 of the EBAZ4205, respectively.
-
-Here’s a photo of the bottom of the AD9834 module, showing the header pinout for easy reference:
-
-[![BottomOfBoard](https://github.com/user-attachments/assets/c4724b66-1a81-43e4-95e1-4b1b6dbaf2ea)](https://github.com/user-attachments/assets/c4724b66-1a81-43e4-95e1-4b1b6dbaf2ea)
-
-Below is a table that outlines how I connected the AD9834 module to the EBAZ4205 Zynq-SoC board:
-
-| **Pin on AD9834 Module** | **Chip Function**   | **Connection on EBAZ4205**     |
-|--------------------------|---------------------|--------------------------------|
-| SCLK                     | SCLK                | CLK: DATA3-19 (Pin V20)        |
-| DATA                     | SDATA               | MOSI: DATA3-17 (Pin U20)       |
-| SYNC                     | FSYNC               | CS_N: DATA3-15 (Pin P19)       |
-| FSE (Tied to GND)        | FSELECT             | N/A: Bit Controlled            |
-| PSE (Tied to GND)        | PSELECT             | N/A: Bit Controlled            |
-| GND                      | Ground              | GND: J8-1, J8-3                |
-| VIN                      | AVDD/DVDD           | 3.3V: J8-2                     |
-| RESET (Unused)           | RESET               | N/A: Bit Controlled            |
-
-NOTE: Both VIN Pins and both GND Pins of the AD9834 Module are tied together.
-
-[![DSC03048](https://github.com/user-attachments/assets/7a002b01-3c96-41d3-b9a4-e25563e07b14)](https://github.com/user-attachments/assets/7a002b01-3c96-41d3-b9a4-e25563e07b14)
-
-[![DSC03049](https://github.com/user-attachments/assets/98e24dab-bcec-4c63-b437-835fa0fcd75c)](https://github.com/user-attachments/assets/98e24dab-bcec-4c63-b437-835fa0fcd75c)
-
-[![DSC03053](https://github.com/user-attachments/assets/dfe61ac3-742d-4398-aecf-7c9b6ac7c437)](https://github.com/user-attachments/assets/dfe61ac3-742d-4398-aecf-7c9b6ac7c437)
 
 ## Conclusion
 
