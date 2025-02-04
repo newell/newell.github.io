@@ -177,6 +177,7 @@ $$oF$$:
 * 4 b2
 * 8 r0
 * 8 r1
+* 8 y1
 
 [![orthorhombic-3](https://github.com/newell/newell.github.io/assets/4163356/b0cff8eb-a092-4880-b3de-ea3ab127f88d)](https://github.com/newell/newell.github.io/assets/4163356/b0cff8eb-a092-4880-b3de-ea3ab127f88d)
 
