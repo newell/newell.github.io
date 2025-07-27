@@ -4,7 +4,7 @@
 
 I am deeply intersted in logic, computation, mathematics, physics, and engineering.
 
-Formally I have a BS in Applied Mathematics with a Minor in Physics from the University of California - Davis and an MSEE from the University of Washington.
+Formally, I have a Bachelor of Science in Applied Mathematics with a Minor in Physics from the University of California - Davis and a Master of Science in Electrical Engineering from the University of Washington.
 
 I enjoy yoga, calisthenics, gymnastics, and other sports such as football ("soccer") and jiu jitsu.
 
