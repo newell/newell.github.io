@@ -54,7 +54,7 @@ This will create `../build/firmware/armv7-none-eabihf/release/runtime`
 
 Now that you have the bootloader, gateware, and firmware built, you can create your `BOOT.BIN` file as mentioned in the `README.md` of:
 
-https://git.m-labs.hk/M-Labs/artiq-zynq
+[https://git.m-labs.hk/M-Labs/artiq-zynq](https://git.m-labs.hk/M-Labs/artiq-zynq)
 
 e.g.
 
@@ -80,7 +80,7 @@ Now that `BOOT.BIN` or `boot.bin` is built from the section above, save it to th
 
 replace `/dev/ttyUSB1` with what your system gives you. 
 
-The UART pins on the EBAZ4205 are located on pin header `J7`.
+The UART pins on the EBAZ4205 are located on pin header `J7`.  Connect some sort of serial console to this header (I am using the FT2232H Mini Module for example).
 
 Here’s a screenshot of the console output when the EBAZ4205 boots up its firmware from the SD card. This demonstrates the successful initialization of the board and loading of the ARTIQ framework:
 
