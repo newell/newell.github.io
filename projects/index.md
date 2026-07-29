@@ -2,7 +2,7 @@
 
 # Projects
 
-[EBAZ4205 - AD9834 DDS Module](https://newell.github.io/projects/ebaz4205)
+[ARTIQ Port for EBAZ4205 Zynq-SoC](https://newell.github.io/projects/ebaz4205)
 
 [Nixie Clock ESP32-C3](https://github.com/newell/nixie-clock-esp32c3)
 
